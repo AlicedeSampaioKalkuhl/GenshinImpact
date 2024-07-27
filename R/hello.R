@@ -72,6 +72,7 @@ changecharacter <- function(data) {
 # Example
 
 assignweapons <- function(data) {
+  char <- menu(unique(characters$character),"Pick a character: ") # add signature weapons here
 
 }
 
@@ -86,5 +87,6 @@ assignartifacts <- function(mydata) {
   set2 <- menu(artifacts$artifacts,"Pick a second artifact set: ")
   mydata[artifacts,character=unique(characters$character)[char]]=paste0(artifacts$artifacts[set]," & ",artifacts$artifacts[set2])
   }
-  }
 }
+
+# if you have
