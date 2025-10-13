@@ -1,0 +1,129 @@
+weapon,refinement,weapon_level,weapon_atk,weapon_stat,weapon_stat_value
+Absolution,R1,70,674,Crit-DMG,0.441
+Akuoumaru,R2,20,510,ATK,0.413
+Amos' Bow,R1,60,608,ATK,0.496
+Aqua Simulacra,R1,50,542,Crit-DMG,0.882
+Anemona Kageuchi,R1,51,454,ATK,0.0551
+Ash-Graven Drinking Horn,R5,90,510,HP,0.413
+Ballad of the Fjords,R2,90,510,Crit-Rate,0.276
+Black Tassel,R5,70,354,HP,0.469
+Bloodtainted Greatsword,R5,20,354,EM,187
+Calamity of Eshu,R5,90,565,ATK,0.276
+Calamity Queller,R1,80,741,ATK,0.165
+Chain Breaker,R1,50,565,ATK,0.276
+Cloudforged,R5,70,510,EM,165
+Compound Bow,R1,40,454,Physical-DMG,0.96
+Cool Steel,R5,70,401,ATK,0.352
+Crane's Echoing Call,R1,59,741,ATK,0.165
+Crescent Pike,R1,40,565,Physical-DMG,0.345
+Dark Iron Sword,R2,71,401,EM,141
+Deatmatch,R1,90,454,Crit-Rate,0.368
+Debate Club,R5,10,401,ATK,0.352
+Dragon's Bane,R1,53,454,EM,221
+Dragonspine Spear,R1,50,454,Physical-DMG,0.69
+Earth Shaker,R2,70,565,ATK,0.276
+Emerald Orb,R5,20,448,EM,94
+End of the Line,R2,1,510,ER,0.459
+Eye of Perception,R5,80,454,ATK,0.551
+Favonius Codex,R4,50,510,ER,0.459
+Favonius Greatsword,R5,80,454,ER,0.613
+Favonius Lance,R5,60,565,ER,0.613
+Favonius Sword,R5,50,454,ER,0.613
+Favonius Warbow,R5,90,454,ER,0.613
+Ferrous Shadow,R5,20,401,HP,0.352
+Fillet Blade,R5,40,401,ATK,0.352
+Finale of the Deep,R1,70,565,ATK,0.276
+Flame-Forged Insight,R5,90,510,EM,165
+Fleuve Cendre Ferryman,R5,70,510,ER,0.276
+Flower-Wreathed Feathers,R1,90,510,ATK,0.413
+Flowing Purity,R2,71,565,ATK,0.276
+Flute of Ezpital,R1,80,454,DEF,0.69
+Footprint of the Rainbow,R2,61,510,DEF,0.517
+Forest Regalia,R2,60,565,ER,0.306
+Freedom-Sworn,R1,70,608,EM,198
+Frostbearer,R1,60,510,ATK,0.413
+Fruitful Hook,R3,80,565,ATK,0.276
+Fruit of Fulfilment,R1,50,510,ER,0.459
+Hakushin Ring,R1,60,565,ER,0.306
+Halberd,R5,20,448,ATK,0.234
+Harbinger of Dawn,R5,20,401,Crit-DMG,0.469
+Iron Sting,R1,50,510,EM,165
+Kagotsurube Isshin,R1,60,510,ATK,0.413
+Key of Khaj Nisut,R2,90,542,HP,0.662
+King's Squire,R4,74,454,ATK,0.551
+Kitain Cross Spear,R1,70,565,EM,110
+Light of Folicar Incision,R1,70,542,Crit-DMG,0.882
+Lithic Blade,R2,20,510,ATK,0.413
+Lithic Spear,R3,50,565,ATK,0.276
+Lion's Roar,R5,60,510,ATK,0.413
+Lost Prayer to the Sacred Wind,R2,61,608,Crit-Rate,0.331
+Recurve Bow,R5,70,353,HP,0.469
+Magic Guide,R5,40,354,EM,187
+Makhaira Aquamarine,R1,56,510,EM,165
+Mappa Mare,R1,90,565,EM,110
+Messenger,R5,60,448,Crit-DMG,0.312
+Moonpiercer,R5,70,565,EM,110
+Mountain-Bracing Bolt,R2,60,565,ER,0.306
+Mouun's Moon,R2,20,565,ATK,0.276
+Otherwordly Story,R2,80,401,ER,0.39
+Peak Patrol Song,R1,70,542,DEF,0.827
+Portable Power Saw,R1,1,454,HP,0.551
+Primordial Jade-Winged Spear,R1,50,674,Crit-Rate,0.221
+Prospector's Drill,R1,70,565,ATK,0.276
+Prototype Amber,R3,70,510,HP,0.413
+Prototype Crescent,R1,50,510,ATK,0.413
+Prototype Rancor,R3,70,565,Physical-DMG,0.345
+Prototype Starglitter,R1,20,510,ER,0.459
+Rainslasher,R5,60,510,EM,165
+Range Gauge,R3,1,565,ATK,0.275
+Raven Bow,R5,20,448,EM,94
+Rightful Reward,R1,80,565,HP,0.276
+Ring of Yaxche,R2,90,510,HP,0.413
+Rust,R5,60,510,ATK,0.413
+Sacrificial Bow,R5,50,565,ER,0.306
+Sacrificial Fragments,R5,50,454,EM,221
+Sacrificial Greatsword,R5,50,565,ER,0.306
+Sacrificial Jade,R1,51,454,Crit-Rate,0.368
+Sacrificial Sword,R5,60,454,ER,0.613
+Sapwood Blade,R2,70,565,ER,0.306
+Serpent Spine,R1,1,510,Crit-Rate,0.276
+Sequence of Solitude,R5,75,510,HP,0.413
+Sharpshooter's Oath,R5,50,401,Crit-DMG,0.469
+Silvershower Heartstrings,R2,60,542,HP,0.662
+Skyrider Greatsword,R5,70,401,Physical-DMG,0.439
+Skyrider Sword,R5,50,354,ER,0.517
+Skyward Blade,R1,50,608,ER,0.551
+Skyward Harp,R4,70,674,Crit-Rate,0.221
+Snow-Tombed Starsilver,R1,60,565,Physical-DMG,0.345
+Solar Pearl,R1,40,510,Crit-Rate,0.276
+Song of Stillness,R1,52,510,ATK,0.413
+Staff of Homa,R1,60,608,Crit-DMG,0.662
+Starcaller's Watch,R1,90,542,EM,265
+Sunny Morning Sleep-In,R1,90,542,EM,265
+Surf's Up,R1,90,542,Crit-DMG,0.882
+Sword of Narzissenkreuz,R5,70,510,ATK,0.413
+Symphonist of Scents,R1,78,608,Crit-DMG,0.662
+Talking Stick,R1,70,565,Crit-Rate,0.184
+Tamayuratei no Ohanashi,R5,80,565,ER,0.306
+The Black Sword,R1,20,510,Crit-Rate,0.276
+The Catch,R1,51,510,ER,0.459
+Thrilling Tales of the Dragonslayer,R5,60,401,HP,0.352
+Tidal Shadow,R2,70,510,ATK,0.413
+Traveler's Handy Sword,R4,20,448,DEF,0.293
+Twin Nephrite,R5,20,448,Crit-Rate,0.156
+Verdict,R2,60,674,Crit-Rate,0.221
+Slingshot,R5,20,354,Crit-Rate,0.312
+The Bell,R5,50,510,HP,0.413
+The Dockhand's Assistant,R2,1,510,HP,0.413
+The Flute,R5,50,510,ATK,0.413s
+The Stringles,R5,70,510,EM,165
+The Viridescent Hunt,R1,50,510,Crit-Rate,0.551
+The Widsith,R5,80,510,Crit-DMG,0.551
+Wandering Evenstar,R2,70,510,EM,165
+Waveriding Whirl,R1,40,454,ER,0.613
+Whiteblind,R4,60,510,DEF,0.517
+White Iron Greatsword,R5,70,401,DEF,0.439
+White Tassel,R5,50,401,Crit-Rate,0.234
+Wolf-Fang,R1,60,510,Crit-Rate,0.276
+Wolf's Gravestone,R1,1,608,ATK,0.496
+Xiphos' Moonlight,R5,50,510,EM,165

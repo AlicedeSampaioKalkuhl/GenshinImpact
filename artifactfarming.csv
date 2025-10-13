@@ -1,0 +1,1109 @@
+artifact_set,artifact_type,artifact_main,n_needed,n_have,n_need
+Archaic Petra,Circlet,ATK,1,1,0
+Archaic Petra,Circlet,Crit_DMG,1,0,1
+Archaic Petra,Circlet,Crit_Rate,2,0,2
+Archaic Petra,Circlet,DEF,1,0,1
+Archaic Petra,Circlet,EM,1,0,1
+Archaic Petra,Circlet,HP,1,0,1
+Archaic Petra,Circlet,Healing_Bonus,2,0,2
+Archaic Petra,Feather,ATK,3,0,3
+Archaic Petra,Flower,HP,3,1,2
+Archaic Petra,Goblet,ATK,1,0,1
+Archaic Petra,Goblet,Anemo_DMG,1,0,1
+Archaic Petra,Goblet,Cryo_DMG,1,0,1
+Archaic Petra,Goblet,DEF,2,0,2
+Archaic Petra,Goblet,Dendro_DMG,1,0,1
+Archaic Petra,Goblet,EM,1,0,1
+Archaic Petra,Goblet,Electro_DMG,1,0,1
+Archaic Petra,Goblet,Geo_DMG,2,0,2
+Archaic Petra,Goblet,HP,1,1,0
+Archaic Petra,Goblet,Hydro_DMG,1,0,1
+Archaic Petra,Goblet,Pyro_DMG,1,0,1
+Archaic Petra,Sands,ATK,1,0,1
+Archaic Petra,Sands,DEF,2,0,2
+Archaic Petra,Sands,EM,1,0,1
+Archaic Petra,Sands,ER,2,0,2
+Archaic Petra,Sands,HP,1,0,1
+Blizzard Strayer,Circlet,ATK,1,1,0
+Blizzard Strayer,Circlet,Crit_DMG,6,0,6
+Blizzard Strayer,Circlet,Crit_Rate,1,0,1
+Blizzard Strayer,Circlet,DEF,1,0,1
+Blizzard Strayer,Circlet,EM,1,0,1
+Blizzard Strayer,Circlet,HP,1,0,1
+Blizzard Strayer,Circlet,Healing_Bonus,1,0,1
+Blizzard Strayer,Feather,ATK,6,1,5
+Blizzard Strayer,Flower,HP,6,1,5
+Blizzard Strayer,Goblet,ATK,1,0,1
+Blizzard Strayer,Goblet,Anemo_DMG,1,0,1
+Blizzard Strayer,Goblet,Cryo-DMG,1,1,0
+Blizzard Strayer,Goblet,Cryo_DMG,4,0,4
+Blizzard Strayer,Goblet,DEF,1,0,1
+Blizzard Strayer,Goblet,Dendro_DMG,1,0,1
+Blizzard Strayer,Goblet,EM,2,0,2
+Blizzard Strayer,Goblet,Electro_DMG,1,0,1
+Blizzard Strayer,Goblet,Geo_DMG,1,0,1
+Blizzard Strayer,Goblet,HP,1,0,1
+Blizzard Strayer,Goblet,Hydro_DMG,1,0,1
+Blizzard Strayer,Goblet,Pyro_DMG,1,0,1
+Blizzard Strayer,Sands,ATK,4,0,4
+Blizzard Strayer,Sands,DEF,1,0,1
+Blizzard Strayer,Sands,EM,2,0,2
+Blizzard Strayer,Sands,ER,2,1,1
+Blizzard Strayer,Sands,HP,1,0,1
+Blizzard Strayer-Finale of Deep Galleries,Circlet,HP,1,0,1
+Blizzard Strayer-Finale of Deep Galleries,Feather,ATK,1,0,1
+Blizzard Strayer-Finale of Deep Galleries,Flower,HP,1,0,1
+Blizzard Strayer-Finale of Deep Galleries,Goblet,Cryo_DMG,1,0,1
+Blizzard Strayer-Finale of Deep Galleries,Sands,EM,1,0,1
+Bloodstained Chivalry,Circlet,Crit_DMG,2,0,2
+Bloodstained Chivalry,Feather,ATK,1,0,1
+Bloodstained Chivalry,Feather,HP,1,0,1
+Bloodstained Chivalry,Flower,ATK,1,0,1
+Bloodstained Chivalry,Flower,HP,1,0,1
+Bloodstained Chivalry,Goblet,ATK,2,0,2
+Bloodstained Chivalry,Sands,ATK,1,0,1
+Bloodstained Chivalry,Sands,Physical_DMG,1,0,1
+Crimson Witch of Flames,Circlet,ATK,1,0,1
+Crimson Witch of Flames,Circlet,Crit_DMG,6,0,6
+Crimson Witch of Flames,Circlet,Crit_Rate,2,0,2
+Crimson Witch of Flames,Circlet,DEF,1,0,1
+Crimson Witch of Flames,Circlet,EM,2,0,2
+Crimson Witch of Flames,Circlet,HP,1,0,1
+Crimson Witch of Flames,Circlet,Healing_Bonus,1,0,1
+Crimson Witch of Flames,Feather,ATK,8,1,7
+Crimson Witch of Flames,Flower,HP,8,2,6
+Crimson Witch of Flames,Goblet,ATK,1,0,1
+Crimson Witch of Flames,Goblet,Anemo_DMG,1,0,1
+Crimson Witch of Flames,Goblet,Cryo_DMG,1,0,1
+Crimson Witch of Flames,Goblet,DEF,1,0,1
+Crimson Witch of Flames,Goblet,Dendro_DMG,1,0,1
+Crimson Witch of Flames,Goblet,EM,1,0,1
+Crimson Witch of Flames,Goblet,Electro_DMG,1,0,1
+Crimson Witch of Flames,Goblet,Geo_DMG,1,0,1
+Crimson Witch of Flames,Goblet,HP,1,0,1
+Crimson Witch of Flames,Goblet,Hydro_DMG,1,0,1
+Crimson Witch of Flames,Goblet,Pyro_DMG,8,0,8
+Crimson Witch of Flames,Sands,ATK,3,0,3
+Crimson Witch of Flames,Sands,DEF,1,0,1
+Crimson Witch of Flames,Sands,EM,4,0,4
+Crimson Witch of Flames,Sands,ER,2,0,2
+Crimson Witch of Flames,Sands,HP,2,0,2
+Deepwood Memories,Circlet,ATK,1,0,1
+Deepwood Memories,Circlet,ATK ,1,0,1
+Deepwood Memories,Circlet,Crit_DMG,1,0,1
+Deepwood Memories,Circlet,Crit_Rate,3,0,3
+Deepwood Memories,Circlet,DEF,1,0,1
+Deepwood Memories,Circlet,EM,3,1,2
+Deepwood Memories,Circlet,HP,2,1,1
+Deepwood Memories,Circlet,Healing_Bonus,2,0,2
+Deepwood Memories,Circlet,Healing_Bonus ,1,0,1
+Deepwood Memories,Feather,ATK,9,1,8
+Deepwood Memories,Flower,HP,9,2,7
+Deepwood Memories,Goblet,ATK,2,0,2
+Deepwood Memories,Goblet,Anemo_DMG,1,0,1
+Deepwood Memories,Goblet,Cryo_DMG,1,0,1
+Deepwood Memories,Goblet,DEF,1,0,1
+Deepwood Memories,Goblet,Dendro_DMG,2,0,2
+Deepwood Memories,Goblet,EM,4,0,4
+Deepwood Memories,Goblet,Electro_DMG,1,0,1
+Deepwood Memories,Goblet,Geo_DMG,1,0,1
+Deepwood Memories,Goblet,HP,4,0,4
+Deepwood Memories,Goblet,Hydro_DMG,1,0,1
+Deepwood Memories,Goblet,Pyro_DMG,1,0,1
+Deepwood Memories,Sands,ATK,2,1,1
+Deepwood Memories,Sands,DEF,1,0,1
+Deepwood Memories,Sands,EM,5,1,4
+Deepwood Memories,Sands,ER,2,0,2
+Deepwood Memories,Sands,HP,3,1,2
+Desert Pavilion Chroncile,Circlet,Crit_DMG,1,0,1
+Desert Pavilion Chroncile,Feather,ATK,1,0,1
+Desert Pavilion Chroncile,Flower,HP,1,0,1
+Desert Pavilion Chroncile,Goblet,Anemo_DMG,1,0,1
+Desert Pavilion Chroncile,Sands,ER,1,0,1
+Desert Pavillion Chronicle,Circlet,ATK,1,0,1
+Desert Pavillion Chronicle,Circlet,Crit_DMG,1,0,1
+Desert Pavillion Chronicle,Circlet,Crit_Rate,1,0,1
+Desert Pavillion Chronicle,Circlet,DEF,1,0,1
+Desert Pavillion Chronicle,Circlet,EM,2,0,2
+Desert Pavillion Chronicle,Circlet,HP,1,0,1
+Desert Pavillion Chronicle,Circlet,Healing_Bonus,1,0,1
+Desert Pavillion Chronicle,Feather,ATK,2,0,2
+Desert Pavillion Chronicle,Flower,HP,2,0,2
+Desert Pavillion Chronicle,Goblet,ATK,1,0,1
+Desert Pavillion Chronicle,Goblet,Anemo_DMG,1,0,1
+Desert Pavillion Chronicle,Goblet,Cryo_DMG,1,0,1
+Desert Pavillion Chronicle,Goblet,DEF,1,0,1
+Desert Pavillion Chronicle,Goblet,Dendro_DMG,1,0,1
+Desert Pavillion Chronicle,Goblet,EM,2,1,1
+Desert Pavillion Chronicle,Goblet,Electro_DMG,1,0,1
+Desert Pavillion Chronicle,Goblet,Geo_DMG,1,0,1
+Desert Pavillion Chronicle,Goblet,HP,1,0,1
+Desert Pavillion Chronicle,Goblet,Hydro_DMG,1,0,1
+Desert Pavillion Chronicle,Goblet,Pyro_DMG,1,0,1
+Desert Pavillion Chronicle,Sands,ATK,1,0,1
+Desert Pavillion Chronicle,Sands,DEF,1,0,1
+Desert Pavillion Chronicle,Sands,EM,2,0,2
+Desert Pavillion Chronicle,Sands,ER,1,0,1
+Desert Pavillion Chronicle,Sands,HP,1,0,1
+Echoes of An Offering,Circlet,ATK,1,0,1
+Echoes of An Offering,Circlet,Crit_DMG,1,0,1
+Echoes of An Offering,Circlet,Crit_Rate,1,0,1
+Echoes of An Offering,Circlet,DEF,1,0,1
+Echoes of An Offering,Circlet,EM,1,0,1
+Echoes of An Offering,Circlet,HP,1,0,1
+Echoes of An Offering,Circlet,Healing_Bonus,1,0,1
+Echoes of An Offering,Feather,ATK,1,0,1
+Echoes of An Offering,Flower,HP,1,0,1
+Echoes of An Offering,Goblet,ATK,1,0,1
+Echoes of An Offering,Goblet,Anemo_DMG,1,0,1
+Echoes of An Offering,Goblet,Cryo_DMG,1,0,1
+Echoes of An Offering,Goblet,DEF,1,0,1
+Echoes of An Offering,Goblet,Dendro_DMG,1,0,1
+Echoes of An Offering,Goblet,EM,1,0,1
+Echoes of An Offering,Goblet,Electro_DMG,1,0,1
+Echoes of An Offering,Goblet,Geo_DMG,1,0,1
+Echoes of An Offering,Goblet,HP,1,0,1
+Echoes of An Offering,Goblet,Hydro_DMG,1,0,1
+Echoes of An Offering,Goblet,Pyro_DMG,1,0,1
+Echoes of An Offering,Sands,ATK,1,0,1
+Echoes of An Offering,Sands,DEF,1,0,1
+Echoes of An Offering,Sands,EM,1,0,1
+Echoes of An Offering,Sands,ER,1,0,1
+Echoes of An Offering,Sands,HP,1,0,1
+Echos of an Offering,Circlet,Crit_DMG,1,0,1
+Echos of an Offering,Feather,ATK,1,0,1
+Echos of an Offering,Flower,HP,1,0,1
+Echos of an Offering,Goblet,Hydro_DMG,1,0,1
+Echos of an Offering,Sands,ATK,1,0,1
+Emblem of Severed Fate,Circlet,ATK,1,0,1
+Emblem of Severed Fate,Circlet,Crit_DMG,2,0,2
+Emblem of Severed Fate,Circlet,Crit_Rate,5,0,5
+Emblem of Severed Fate,Circlet,DEF,1,0,1
+Emblem of Severed Fate,Circlet,EM,1,0,1
+Emblem of Severed Fate,Circlet,ER,2,0,2
+Emblem of Severed Fate,Circlet,HP,1,0,1
+Emblem of Severed Fate,Circlet,Healing_Bonus,1,0,1
+Emblem of Severed Fate,Feather,ATK,7,1,6
+Emblem of Severed Fate,Feather,Crit_Rate,1,0,1
+Emblem of Severed Fate,Feather,HP,1,0,1
+Emblem of Severed Fate,Flower,Electro_DMG,1,0,1
+Emblem of Severed Fate,Flower,HP,8,0,8
+Emblem of Severed Fate,Goblet,ATK,2,0,2
+Emblem of Severed Fate,Goblet,Anemo_DMG,1,0,1
+Emblem of Severed Fate,Goblet,Cryo_DMG,1,0,1
+Emblem of Severed Fate,Goblet,DEF,1,0,1
+Emblem of Severed Fate,Goblet,Dendro_DMG,1,0,1
+Emblem of Severed Fate,Goblet,EM,1,0,1
+Emblem of Severed Fate,Goblet,Electro_DMG,3,0,3
+Emblem of Severed Fate,Goblet,Geo_DMG,1,0,1
+Emblem of Severed Fate,Goblet,HP,2,0,2
+Emblem of Severed Fate,Goblet,Hydro_DMG,3,0,3
+Emblem of Severed Fate,Goblet,Pyro_DMG,2,0,2
+Emblem of Severed Fate,Sands,ATK,2,0,2
+Emblem of Severed Fate,Sands,DEF,1,0,1
+Emblem of Severed Fate,Sands,EM,1,0,1
+Emblem of Severed Fate,Sands,ER,6,0,6
+Emblem of Severed Fate,Sands,HP,2,0,2
+Finale of Deep Galleries,Circlet,ATK,1,0,1
+Finale of Deep Galleries,Circlet,Crit_DMG,1,0,1
+Finale of Deep Galleries,Circlet,Crit_Rate,1,0,1
+Finale of Deep Galleries,Circlet,DEF,1,0,1
+Finale of Deep Galleries,Circlet,EM,1,0,1
+Finale of Deep Galleries,Circlet,HP,1,0,1
+Finale of Deep Galleries,Circlet,Healing_Bonus,1,0,1
+Finale of Deep Galleries,Feather,ATK,1,0,1
+Finale of Deep Galleries,Flower,HP,1,0,1
+Finale of Deep Galleries,Goblet,ATK,1,0,1
+Finale of Deep Galleries,Goblet,Anemo_DMG,1,0,1
+Finale of Deep Galleries,Goblet,Cryo_DMG,1,0,1
+Finale of Deep Galleries,Goblet,DEF,1,0,1
+Finale of Deep Galleries,Goblet,Dendro_DMG,1,0,1
+Finale of Deep Galleries,Goblet,EM,1,0,1
+Finale of Deep Galleries,Goblet,Electro_DMG,1,0,1
+Finale of Deep Galleries,Goblet,Geo_DMG,1,0,1
+Finale of Deep Galleries,Goblet,HP,1,1,0
+Finale of Deep Galleries,Goblet,Hydro_DMG,1,0,1
+Finale of Deep Galleries,Goblet,Pyro_DMG,1,0,1
+Finale of Deep Galleries,Sands,ATK,1,1,0
+Finale of Deep Galleries,Sands,DEF,1,0,1
+Finale of Deep Galleries,Sands,EM,1,1,0
+Finale of Deep Galleries,Sands,ER,1,0,1
+Finale of Deep Galleries,Sands,HP,1,0,1
+Finale of Deep Galleries-Blizzard Strayer,Circlet,Crit_DMG,1,0,1
+Finale of Deep Galleries-Blizzard Strayer,Feather,ATK,1,0,1
+Finale of Deep Galleries-Blizzard Strayer,Flower,HP,1,0,1
+Finale of Deep Galleries-Blizzard Strayer,Goblet,EM,1,0,1
+Finale of Deep Galleries-Blizzard Strayer,Sands,EM,1,0,1
+Flower of Paradise Lost,Circlet,ATK,1,0,1
+Flower of Paradise Lost,Circlet,Crit_DMG,2,0,2
+Flower of Paradise Lost,Circlet,Crit_Rate,2,0,2
+Flower of Paradise Lost,Circlet,DEF,1,0,1
+Flower of Paradise Lost,Circlet,EM,3,0,3
+Flower of Paradise Lost,Circlet,HP,1,0,1
+Flower of Paradise Lost,Circlet,Healing_Bonus,1,1,0
+Flower of Paradise Lost,Feather,ATK,5,1,4
+Flower of Paradise Lost,Flower,HP,5,1,4
+Flower of Paradise Lost,Goblet,ATK,1,0,1
+Flower of Paradise Lost,Goblet,Anemo_DMG,1,0,1
+Flower of Paradise Lost,Goblet,Cryo_DMG,1,0,1
+Flower of Paradise Lost,Goblet,DEF,1,0,1
+Flower of Paradise Lost,Goblet,Dendro_DMG,2,0,2
+Flower of Paradise Lost,Goblet,EM,4,1,3
+Flower of Paradise Lost,Goblet,Electro_DMG,1,0,1
+Flower of Paradise Lost,Goblet,Geo_DMG,1,0,1
+Flower of Paradise Lost,Goblet,HP,1,0,1
+Flower of Paradise Lost,Goblet,Hydro_DMG,1,0,1
+Flower of Paradise Lost,Goblet,Pyro_DMG,1,0,1
+Flower of Paradise Lost,Sands,ATK,1,0,1
+Flower of Paradise Lost,Sands,DEF,1,0,1
+Flower of Paradise Lost,Sands,EM,4,0,4
+Flower of Paradise Lost,Sands,ER,2,0,2
+Flower of Paradise Lost,Sands,HP,1,0,1
+Fragment of Harmonic Whimsy,Circlet,ATK,1,0,1
+Fragment of Harmonic Whimsy,Circlet,Crit_DMG,3,0,3
+Fragment of Harmonic Whimsy,Circlet,Crit_Rate,1,0,1
+Fragment of Harmonic Whimsy,Circlet,DEF,1,0,1
+Fragment of Harmonic Whimsy,Circlet,EM,1,0,1
+Fragment of Harmonic Whimsy,Circlet,HP,1,0,1
+Fragment of Harmonic Whimsy,Circlet,Healing_Bonus,1,0,1
+Fragment of Harmonic Whimsy,Feather,ATK,3,1,2
+Fragment of Harmonic Whimsy,Flower,HP,3,1,2
+Fragment of Harmonic Whimsy,Goblet,ATK,1,0,1
+Fragment of Harmonic Whimsy,Goblet,Anemo_DMG,1,0,1
+Fragment of Harmonic Whimsy,Goblet,Cryo_DMG,1,0,1
+Fragment of Harmonic Whimsy,Goblet,DEF,1,0,1
+Fragment of Harmonic Whimsy,Goblet,Dendro_DMG,1,0,1
+Fragment of Harmonic Whimsy,Goblet,EM,1,0,1
+Fragment of Harmonic Whimsy,Goblet,Electro_DMG,2,0,2
+Fragment of Harmonic Whimsy,Goblet,Geo_DMG,1,0,1
+Fragment of Harmonic Whimsy,Goblet,HP,1,2,-1
+Fragment of Harmonic Whimsy,Goblet,Hydro_DMG,2,0,2
+Fragment of Harmonic Whimsy,Goblet,Pyro_DMG,1,0,1
+Fragment of Harmonic Whimsy,Sands,ATK,2,0,2
+Fragment of Harmonic Whimsy,Sands,DEF,1,0,1
+Fragment of Harmonic Whimsy,Sands,EM,1,0,1
+Fragment of Harmonic Whimsy,Sands,ER,2,0,2
+Fragment of Harmonic Whimsy,Sands,HP,1,0,1
+Gilded Dreams,Circlet,ATK,2,0,2
+Gilded Dreams,Circlet,Crit_DMG,3,0,3
+Gilded Dreams,Circlet,Crit_Rate,2,0,2
+Gilded Dreams,Circlet,DEF,1,0,1
+Gilded Dreams,Circlet,EM,6,0,6
+Gilded Dreams,Circlet,HP,2,0,2
+Gilded Dreams,Circlet,Healing_Bonus,1,0,1
+Gilded Dreams,Feather,ATK,11,2,9
+Gilded Dreams,Flower,HP,11,3,8
+Gilded Dreams,Goblet,ATK,2,0,2
+Gilded Dreams,Goblet,Anemo_DMG,2,0,2
+Gilded Dreams,Goblet,Cryo_DMG,1,0,1
+Gilded Dreams,Goblet,DEF,1,0,1
+Gilded Dreams,Goblet,Dendro_DMG,2,0,2
+Gilded Dreams,Goblet,EM,7,1,6
+Gilded Dreams,Goblet,Electro_DMG,1,0,1
+Gilded Dreams,Goblet,Geo_DMG,1,0,1
+Gilded Dreams,Goblet,HP,2,1,1
+Gilded Dreams,Goblet,Hydro_DMG,1,0,1
+Gilded Dreams,Goblet,Pyro_DMG,1,0,1
+Gilded Dreams,Sands,ATK,2,0,2
+Gilded Dreams,Sands,DEF,1,0,1
+Gilded Dreams,Sands,EM,8,0,8
+Gilded Dreams,Sands,ER,2,1,1
+Gilded Dreams,Sands,HP,2,0,2
+Gladiator's Finale,Circlet,ATK,1,0,1
+Gladiator's Finale,Circlet,Crit_DMG,1,0,1
+Gladiator's Finale,Circlet,Crit_Rate,1,0,1
+Gladiator's Finale,Circlet,DEF,1,0,1
+Gladiator's Finale,Circlet,EM,1,0,1
+Gladiator's Finale,Circlet,HP,1,1,0
+Gladiator's Finale,Circlet,Healing_Bonus,1,0,1
+Gladiator's Finale,Feather,ATK,1,0,1
+Gladiator's Finale,Flower,HP,1,0,1
+Gladiator's Finale,Goblet,ATK,1,0,1
+Gladiator's Finale,Goblet,Anemo_DMG,1,0,1
+Gladiator's Finale,Goblet,Cryo_DMG,1,0,1
+Gladiator's Finale,Goblet,DEF,1,0,1
+Gladiator's Finale,Goblet,Dendro_DMG,1,0,1
+Gladiator's Finale,Goblet,EM,1,0,1
+Gladiator's Finale,Goblet,Electro_DMG,1,0,1
+Gladiator's Finale,Goblet,Geo_DMG,1,0,1
+Gladiator's Finale,Goblet,HP,1,0,1
+Gladiator's Finale,Goblet,Hydro_DMG,1,0,1
+Gladiator's Finale,Goblet,Pyro_DMG,1,0,1
+Gladiator's Finale,Sands,ATK,1,0,1
+Gladiator's Finale,Sands,DEF,1,0,1
+Gladiator's Finale,Sands,EM,1,0,1
+Gladiator's Finale,Sands,ER,1,0,1
+Gladiator's Finale,Sands,HP,1,0,1
+Gladiator's Triumph,Circlet,ATK,1,0,1
+Gladiator's Triumph,Feather,HP,1,0,1
+Gladiator's Triumph,Flower,ER,1,0,1
+Gladiator's Triumph,Goblet,ATK,1,0,1
+Gladiator's Triumph,Sands,ATK,1,0,1
+Golden Troupe,Circlet,ATK,1,0,1
+Golden Troupe,Circlet,Crit_DMG,1,0,1
+Golden Troupe,Circlet,Crit_Rate,4,0,4
+Golden Troupe,Circlet,DEF,1,0,1
+Golden Troupe,Circlet,EM,1,0,1
+Golden Troupe,Circlet,HP,1,0,1
+Golden Troupe,Circlet,Healing_Bonus,1,0,1
+Golden Troupe,Feather,ATK,4,2,2
+Golden Troupe,Flower,HP,4,0,4
+Golden Troupe,Goblet,ATK,1,0,1
+Golden Troupe,Goblet,Anemo_DMG,1,0,1
+Golden Troupe,Goblet,Cryo_DMG,1,0,1
+Golden Troupe,Goblet,DEF,2,0,2
+Golden Troupe,Goblet,Dendro_DMG,1,0,1
+Golden Troupe,Goblet,EM,1,0,1
+Golden Troupe,Goblet,Electro_DMG,3,0,3
+Golden Troupe,Goblet,Geo_DMG,1,0,1
+Golden Troupe,Goblet,HP,1,0,1
+Golden Troupe,Goblet,Hydro_DMG,1,0,1
+Golden Troupe,Goblet,Pyro_DMG,1,0,1
+Golden Troupe,Sands,ATK,1,0,1
+Golden Troupe,Sands,DEF,2,0,2
+Golden Troupe,Sands,EM,1,0,1
+Golden Troupe,Sands,ER,3,0,3
+Golden Troupe,Sands,HP,1,0,1
+Heart of Depths,Circlet,ATK,1,0,1
+Heart of Depths,Circlet,Crit_DMG,2,0,2
+Heart of Depths,Circlet,Crit_Rate,1,0,1
+Heart of Depths,Circlet,DEF,1,0,1
+Heart of Depths,Circlet,EM,1,0,1
+Heart of Depths,Circlet,HP,1,0,1
+Heart of Depths,Circlet,Healing_Bonus,1,0,1
+Heart of Depths,Feather,ATK,2,0,2
+Heart of Depths,Flower,HP,2,0,2
+Heart of Depths,Goblet,ATK,1,1,0
+Heart of Depths,Goblet,Anemo_DMG,1,0,1
+Heart of Depths,Goblet,Cryo_DMG,1,0,1
+Heart of Depths,Goblet,DEF,1,0,1
+Heart of Depths,Goblet,Dendro_DMG,1,0,1
+Heart of Depths,Goblet,EM,1,0,1
+Heart of Depths,Goblet,Electro_DMG,1,0,1
+Heart of Depths,Goblet,Geo_DMG,1,0,1
+Heart of Depths,Goblet,HP,1,0,1
+Heart of Depths,Goblet,Hydro_DMG,2,0,2
+Heart of Depths,Goblet,Pyro_DMG,1,0,1
+Heart of Depths,Sands,ATK,2,0,2
+Heart of Depths,Sands,DEF,1,0,1
+Heart of Depths,Sands,EM,1,0,1
+Heart of Depths,Sands,ER,1,0,1
+Heart of Depths,Sands,HP,1,0,1
+Heart of Depths-Nymph's Dream,Circlet,Crit_Rate,1,0,1
+Heart of Depths-Nymph's Dream,Feather,ATK,1,0,1
+Heart of Depths-Nymph's Dream,Flower,HP,1,0,1
+Heart of Depths-Nymph's Dream,Goblet,ATK,1,0,1
+Heart of Depths-Nymph's Dream,Sands,ER,1,0,1
+Husk of Oppulent Dreams,Circlet,ATK,1,0,1
+Husk of Oppulent Dreams,Circlet,Crit_DMG,2,0,2
+Husk of Oppulent Dreams,Circlet,Crit_Rate,1,0,1
+Husk of Oppulent Dreams,Circlet,DEF,4,0,4
+Husk of Oppulent Dreams,Circlet,EM,1,0,1
+Husk of Oppulent Dreams,Circlet,HP,1,0,1
+Husk of Oppulent Dreams,Circlet,Healing_Bonus,1,0,1
+Husk of Oppulent Dreams,Feather,ATK,4,2,2
+Husk of Oppulent Dreams,Feather,DEF,1,0,1
+Husk of Oppulent Dreams,Flower,HP,5,2,3
+Husk of Oppulent Dreams,Goblet,ATK,1,1,0
+Husk of Oppulent Dreams,Goblet,Anemo_DMG,1,0,1
+Husk of Oppulent Dreams,Goblet,Cryo_DMG,1,0,1
+Husk of Oppulent Dreams,Goblet,DEF,4,0,4
+Husk of Oppulent Dreams,Goblet,Dendro_DMG,1,0,1
+Husk of Oppulent Dreams,Goblet,EM,1,0,1
+Husk of Oppulent Dreams,Goblet,Electro_DMG,1,0,1
+Husk of Oppulent Dreams,Goblet,Geo_DMG,2,0,2
+Husk of Oppulent Dreams,Goblet,HP,1,0,1
+Husk of Oppulent Dreams,Goblet,Hydro_DMG,1,0,1
+Husk of Oppulent Dreams,Goblet,Pyro_DMG,1,0,1
+Husk of Oppulent Dreams,Sands,ATK,2,0,2
+Husk of Oppulent Dreams,Sands,DEF,4,1,3
+Husk of Oppulent Dreams,Sands,EM,1,0,1
+Husk of Oppulent Dreams,Sands,ER,1,0,1
+Husk of Oppulent Dreams,Sands,HP,1,0,1
+Husk of Opulent Dreams,Circlet,DEF,1,0,1
+Husk of Opulent Dreams,Feather,ATK,1,0,1
+Husk of Opulent Dreams,Flower,HP,1,0,1
+Husk of Opulent Dreams,Goblet,DEF,1,0,1
+Husk of Opulent Dreams,Sands,ER,1,0,1
+Lavawalker,Circlet,ATK,1,0,1
+Lavawalker,Circlet,Crit_DMG,1,0,1
+Lavawalker,Circlet,Crit_Rate,1,0,1
+Lavawalker,Circlet,DEF,1,0,1
+Lavawalker,Circlet,EM,1,0,1
+Lavawalker,Circlet,HP,1,0,1
+Lavawalker,Circlet,Healing_Bonus,1,0,1
+Lavawalker,Feather,ATK,1,0,1
+Lavawalker,Flower,HP,1,0,1
+Lavawalker,Goblet,ATK,1,0,1
+Lavawalker,Goblet,Anemo_DMG,1,0,1
+Lavawalker,Goblet,Cryo_DMG,1,0,1
+Lavawalker,Goblet,DEF,1,0,1
+Lavawalker,Goblet,Dendro_DMG,1,0,1
+Lavawalker,Goblet,EM,1,0,1
+Lavawalker,Goblet,Electro_DMG,1,0,1
+Lavawalker,Goblet,Geo_DMG,1,0,1
+Lavawalker,Goblet,HP,1,0,1
+Lavawalker,Goblet,Hydro_DMG,1,0,1
+Lavawalker,Goblet,Pyro_DMG,1,0,1
+Lavawalker,Sands,ATK,1,0,1
+Lavawalker,Sands,DEF,1,0,1
+Lavawalker,Sands,EM,1,0,1
+Lavawalker,Sands,ER,1,0,1
+Lavawalker,Sands,HP,1,0,1
+Long Night's Oath,Circlet,ATK,1,0,1
+Long Night's Oath,Circlet,Crit_DMG,4,0,4
+Long Night's Oath,Circlet,Crit_Rate,1,0,1
+Long Night's Oath,Circlet,DEF,1,0,1
+Long Night's Oath,Circlet,EM,1,0,1
+Long Night's Oath,Circlet,HP,1,0,1
+Long Night's Oath,Circlet,Healing_Bonus,1,0,1
+Long Night's Oath,Feather,ATK,4,1,3
+Long Night's Oath,Flower,HP,4,1,3
+Long Night's Oath,Goblet,ATK,1,0,1
+Long Night's Oath,Goblet,Anemo_DMG,2,0,2
+Long Night's Oath,Goblet,Cryo_DMG,1,0,1
+Long Night's Oath,Goblet,DEF,1,0,1
+Long Night's Oath,Goblet,Dendro_DMG,1,0,1
+Long Night's Oath,Goblet,EM,1,1,0
+Long Night's Oath,Goblet,Electro_DMG,2,0,2
+Long Night's Oath,Goblet,Geo_DMG,1,0,1
+Long Night's Oath,Goblet,HP,1,0,1
+Long Night's Oath,Goblet,Hydro_DMG,1,0,1
+Long Night's Oath,Goblet,Physical_DMG,1,0,1
+Long Night's Oath,Goblet,Pyro_DMG,1,0,1
+Long Night's Oath,Sands,ATK,3,1,2
+Long Night's Oath,Sands,DEF,1,0,1
+Long Night's Oath,Sands,EM,1,0,1
+Long Night's Oath,Sands,ER,2,0,2
+Long Night's Oath,Sands,HP,1,0,1
+Maiden Beloved,Circlet,ATK,1,0,1
+Maiden Beloved,Circlet,Crit_DMG,1,0,1
+Maiden Beloved,Circlet,Crit_Rate,1,0,1
+Maiden Beloved,Circlet,DEF,1,0,1
+Maiden Beloved,Circlet,EM,1,0,1
+Maiden Beloved,Circlet,HP,1,0,1
+Maiden Beloved,Circlet,Healing_Bonus,6,0,6
+Maiden Beloved,Feather,ATK,6,4,2
+Maiden Beloved,Flower,HP,6,1,5
+Maiden Beloved,Goblet,ATK,3,0,3
+Maiden Beloved,Goblet,Anemo_DMG,1,0,1
+Maiden Beloved,Goblet,Cryo_DMG,1,0,1
+Maiden Beloved,Goblet,DEF,1,0,1
+Maiden Beloved,Goblet,Dendro_DMG,1,0,1
+Maiden Beloved,Goblet,EM,1,0,1
+Maiden Beloved,Goblet,Electro_DMG,2,0,2
+Maiden Beloved,Goblet,Geo_DMG,1,0,1
+Maiden Beloved,Goblet,HP,3,0,3
+Maiden Beloved,Goblet,Hydro_DMG,1,0,1
+Maiden Beloved,Goblet,Pyro_DMG,1,0,1
+Maiden Beloved,Sands,ATK,3,0,3
+Maiden Beloved,Sands,DEF,1,0,1
+Maiden Beloved,Sands,EM,1,0,1
+Maiden Beloved,Sands,ER,2,0,2
+Maiden Beloved,Sands,HP,3,0,3
+Marechausee Hunter,Circlet,Crit_DMG,1,0,1
+Marechausee Hunter,Circlet,Crit_Rate,1,0,1
+Marechausee Hunter,Feather,ATK,2,0,2
+Marechausee Hunter,Flower,HP,2,0,2
+Marechausee Hunter,Goblet,ATK,1,0,1
+Marechausee Hunter,Goblet,Pyro_DMG,1,0,1
+Marechausee Hunter,Sands,EM,1,0,1
+Marechausee Hunter,Sands,ER,1,0,1
+Marechaussee Hunter,Circlet,ATK,1,0,1
+Marechaussee Hunter,Circlet,Crit_DMG,2,0,2
+Marechaussee Hunter,Circlet,Crit_Rate,1,0,1
+Marechaussee Hunter,Circlet,DEF,1,0,1
+Marechaussee Hunter,Circlet,EM,1,0,1
+Marechaussee Hunter,Circlet,HP,1,0,1
+Marechaussee Hunter,Circlet,Healing_Bonus,1,0,1
+Marechaussee Hunter,Feather,ATK,2,2,0
+Marechaussee Hunter,Flower,HP,2,2,0
+Marechaussee Hunter,Goblet,ATK,1,1,0
+Marechaussee Hunter,Goblet,Anemo_DMG,1,0,1
+Marechaussee Hunter,Goblet,Cryo_DMG,1,0,1
+Marechaussee Hunter,Goblet,DEF,1,0,1
+Marechaussee Hunter,Goblet,Dendro_DMG,1,0,1
+Marechaussee Hunter,Goblet,EM,1,0,1
+Marechaussee Hunter,Goblet,Electro_DMG,1,0,1
+Marechaussee Hunter,Goblet,Geo_DMG,1,0,1
+Marechaussee Hunter,Goblet,HP,1,0,1
+Marechaussee Hunter,Goblet,Hydro_DMG,2,0,2
+Marechaussee Hunter,Goblet,Pyro_DMG,1,0,1
+Marechaussee Hunter,Sands,ATK,1,0,1
+Marechaussee Hunter,Sands,DEF,1,0,1
+Marechaussee Hunter,Sands,EM,1,0,1
+Marechaussee Hunter,Sands,ER,1,0,1
+Marechaussee Hunter,Sands,HP,2,0,2
+Nfoblesse Oblige,Circlet,ATK,1,0,1
+Nfoblesse Oblige,Feather,ATK,1,0,1
+Nfoblesse Oblige,Flower,EHP,1,0,1
+Nfoblesse Oblige,Goblet,ATK,1,0,1
+Nfoblesse Oblige,Sands,R,1,0,1
+Night of the Sky's Unveiling,Circlet,ATK,1,0,1
+Night of the Sky's Unveiling,Circlet,Crit_DMG,1,0,1
+Night of the Sky's Unveiling,Circlet,Crit_Rate,1,0,1
+Night of the Sky's Unveiling,Circlet,DEF,1,0,1
+Night of the Sky's Unveiling,Circlet,EM,1,0,1
+Night of the Sky's Unveiling,Circlet,HP,1,0,1
+Night of the Sky's Unveiling,Circlet,Healing_Bonus,1,0,1
+Night of the Sky's Unveiling,Feather,ATK,1,0,1
+Night of the Sky's Unveiling,Flower,HP,1,0,1
+Night of the Sky's Unveiling,Goblet,ATK,1,0,1
+Night of the Sky's Unveiling,Goblet,Anemo_DMG,1,0,1
+Night of the Sky's Unveiling,Goblet,Cryo_DMG,1,0,1
+Night of the Sky's Unveiling,Goblet,DEF,1,0,1
+Night of the Sky's Unveiling,Goblet,Dendro_DMG,1,0,1
+Night of the Sky's Unveiling,Goblet,EM,1,0,1
+Night of the Sky's Unveiling,Goblet,Electro_DMG,1,0,1
+Night of the Sky's Unveiling,Goblet,Geo_DMG,1,0,1
+Night of the Sky's Unveiling,Goblet,HP,1,0,1
+Night of the Sky's Unveiling,Goblet,Hydro_DMG,1,0,1
+Night of the Sky's Unveiling,Goblet,Pyro_DMG,1,0,1
+Night of the Sky's Unveiling,Sands,ATK,1,0,1
+Night of the Sky's Unveiling,Sands,DEF,1,0,1
+Night of the Sky's Unveiling,Sands,EM,1,0,1
+Night of the Sky's Unveiling,Sands,ER,1,0,1
+Night of the Sky's Unveiling,Sands,HP,1,0,1
+Nightime Whispers in the Echoing Woods,Circlet,Crit_Rate,1,0,1
+Nightime Whispers in the Echoing Woods,Feather,ATK,1,0,1
+Nightime Whispers in the Echoing Woods,Flower,HP,1,0,1
+Nightime Whispers in the Echoing Woods,Goblet,Geo_DMG,1,0,1
+Nightime Whispers in the Echoing Woods,Sands,ATK,1,0,1
+Nighttime Whispers in the Echoing Woods,Circlet,ATK,1,0,1
+Nighttime Whispers in the Echoing Woods,Circlet,Crit_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Circlet,Crit_Rate,1,0,1
+Nighttime Whispers in the Echoing Woods,Circlet,DEF,1,0,1
+Nighttime Whispers in the Echoing Woods,Circlet,EM,1,0,1
+Nighttime Whispers in the Echoing Woods,Circlet,HP,1,0,1
+Nighttime Whispers in the Echoing Woods,Circlet,Healing_Bonus,1,0,1
+Nighttime Whispers in the Echoing Woods,Feather,ATK,1,0,1
+Nighttime Whispers in the Echoing Woods,Flower,HP,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,ATK,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,Anemo_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,Cryo_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,DEF,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,Dendro_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,EM,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,Electro_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,Geo_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,HP,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,Hydro_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Goblet,Pyro_DMG,1,0,1
+Nighttime Whispers in the Echoing Woods,Sands,ATK,1,0,1
+Nighttime Whispers in the Echoing Woods,Sands,DEF,1,0,1
+Nighttime Whispers in the Echoing Woods,Sands,EM,1,0,1
+Nighttime Whispers in the Echoing Woods,Sands,ER,1,0,1
+Nighttime Whispers in the Echoing Woods,Sands,HP,1,0,1
+Noblesse Obliege,Circlet,DEF,1,0,1
+Noblesse Obliege,Circlet,Healing_Bonus,1,0,1
+Noblesse Obliege,Feather,ATK,2,0,2
+Noblesse Obliege,Flower,HP,2,0,2
+Noblesse Obliege,Goblet,ATK,1,0,1
+Noblesse Obliege,Goblet,DEF,1,0,1
+Noblesse Obliege,Sands,DEF,1,0,1
+Noblesse Obliege,Sands,ER,1,0,1
+Noblesse Oblige,Circlet,ATK,2,1,1
+Noblesse Oblige,Circlet,Crit_DMG,1,0,1
+Noblesse Oblige,Circlet,Crit_Rate,2,0,2
+Noblesse Oblige,Circlet,DEF,1,0,1
+Noblesse Oblige,Circlet,EM,3,0,3
+Noblesse Oblige,Circlet,HP,1,0,1
+Noblesse Oblige,Circlet,Healing_Bonus,2,0,2
+Noblesse Oblige,Feather,ATK,6,1,5
+Noblesse Oblige,Flower,HP,6,2,4
+Noblesse Oblige,Goblet,ATK,2,0,2
+Noblesse Oblige,Goblet,Anemo_DMG,1,0,1
+Noblesse Oblige,Goblet,Cryo_DMG,2,0,2
+Noblesse Oblige,Goblet,DEF,1,0,1
+Noblesse Oblige,Goblet,Dendro_DMG,1,0,1
+Noblesse Oblige,Goblet,EM,3,0,3
+Noblesse Oblige,Goblet,Electro_DMG,1,0,1
+Noblesse Oblige,Goblet,Geo_DMG,1,0,1
+Noblesse Oblige,Goblet,HP,2,1,1
+Noblesse Oblige,Goblet,Hydro_DMG,1,0,1
+Noblesse Oblige,Goblet,Pyro_DMG,1,0,1
+Noblesse Oblige,Sands,ATK,2,1,1
+Noblesse Oblige,Sands,DEF,1,0,1
+Noblesse Oblige,Sands,EM,1,0,1
+Noblesse Oblige,Sands,ER,5,1,4
+Noblesse Oblige,Sands,HP,1,0,1
+Nymph's Dream,Circlet,ATK,1,0,1
+Nymph's Dream,Circlet,Crit_DMG,2,0,2
+Nymph's Dream,Circlet,Crit_Rate,1,0,1
+Nymph's Dream,Circlet,DEF,1,0,1
+Nymph's Dream,Circlet,EM,1,0,1
+Nymph's Dream,Circlet,HP,2,0,2
+Nymph's Dream,Circlet,Healing_Bonus,1,0,1
+Nymph's Dream,Feather,ATK,3,0,3
+Nymph's Dream,Flower,HP,3,0,3
+Nymph's Dream,Goblet,ATK,1,0,1
+Nymph's Dream,Goblet,Anemo_DMG,1,0,1
+Nymph's Dream,Goblet,Cryo_DMG,1,0,1
+Nymph's Dream,Goblet,DEF,1,0,1
+Nymph's Dream,Goblet,Dendro_DMG,1,0,1
+Nymph's Dream,Goblet,EM,1,0,1
+Nymph's Dream,Goblet,Electro_DMG,1,0,1
+Nymph's Dream,Goblet,Geo_DMG,1,0,1
+Nymph's Dream,Goblet,HP,2,0,2
+Nymph's Dream,Goblet,Hydro_DMG,2,0,2
+Nymph's Dream,Goblet,Pyro_DMG,1,0,1
+Nymph's Dream,Sands,ATK,2,0,2
+Nymph's Dream,Sands,DEF,1,0,1
+Nymph's Dream,Sands,EM,1,0,1
+Nymph's Dream,Sands,ER,1,0,1
+Nymph's Dream,Sands,HP,2,0,2
+Obsidian Codex,Circlet,ATK,1,0,1
+Obsidian Codex,Circlet,Crit_DMG,2,0,2
+Obsidian Codex,Circlet,Crit_Rate,1,0,1
+Obsidian Codex,Circlet,DEF,1,0,1
+Obsidian Codex,Circlet,EM,1,0,1
+Obsidian Codex,Circlet,HP,2,1,1
+Obsidian Codex,Circlet,Healing_Bonus,1,0,1
+Obsidian Codex,Feather,ATK,3,0,3
+Obsidian Codex,Flower,HP,3,1,2
+Obsidian Codex,Goblet,ATK,2,1,1
+Obsidian Codex,Goblet,Anemo_DMG,1,0,1
+Obsidian Codex,Goblet,Cryo_DMG,1,0,1
+Obsidian Codex,Goblet,DEF,1,0,1
+Obsidian Codex,Goblet,Dendro_DMG,1,0,1
+Obsidian Codex,Goblet,EM,1,0,1
+Obsidian Codex,Goblet,Electro_DMG,1,0,1
+Obsidian Codex,Goblet,Geo_DMG,1,0,1
+Obsidian Codex,Goblet,HP,1,0,1
+Obsidian Codex,Goblet,Hydro_DMG,2,0,2
+Obsidian Codex,Goblet,Pyro_DMG,1,0,1
+Obsidian Codex,Sands,ATK,2,1,1
+Obsidian Codex,Sands,DEF,1,0,1
+Obsidian Codex,Sands,EM,1,0,1
+Obsidian Codex,Sands,ER,1,0,1
+Obsidian Codex,Sands,HP,2,1,1
+Ocean-Hued Clam,Circlet,ATK,1,0,1
+Ocean-Hued Clam,Circlet,Crit_DMG,1,0,1
+Ocean-Hued Clam,Circlet,Crit_Rate,1,0,1
+Ocean-Hued Clam,Circlet,DEF,1,0,1
+Ocean-Hued Clam,Circlet,EM,2,0,2
+Ocean-Hued Clam,Circlet,HP,1,0,1
+Ocean-Hued Clam,Circlet,Healing_Bonus,3,0,3
+Ocean-Hued Clam,Feather,ATK,4,0,4
+Ocean-Hued Clam,Flower,HP,4,1,3
+Ocean-Hued Clam,Goblet,ATK,1,0,1
+Ocean-Hued Clam,Goblet,Anemo_DMG,1,0,1
+Ocean-Hued Clam,Goblet,Cryo_DMG,1,0,1
+Ocean-Hued Clam,Goblet,DEF,1,0,1
+Ocean-Hued Clam,Goblet,Dendro_DMG,1,0,1
+Ocean-Hued Clam,Goblet,EM,2,0,2
+Ocean-Hued Clam,Goblet,Electro_DMG,1,0,1
+Ocean-Hued Clam,Goblet,Geo_DMG,1,0,1
+Ocean-Hued Clam,Goblet,HP,3,0,3
+Ocean-Hued Clam,Goblet,Hydro_DMG,1,0,1
+Ocean-Hued Clam,Goblet,Pyro_DMG,1,0,1
+Ocean-Hued Clam,Sands,ATK,1,0,1
+Ocean-Hued Clam,Sands,DEF,1,0,1
+Ocean-Hued Clam,Sands,EM,2,0,2
+Ocean-Hued Clam,Sands,ER,2,0,2
+Ocean-Hued Clam,Sands,HP,2,0,2
+Pale Flame,Circlet,ATK,2,1,1
+Pale Flame,Circlet,Crit_DMG,2,0,2
+Pale Flame,Circlet,Crit_Rate,3,0,3
+Pale Flame,Circlet,DEF,1,0,1
+Pale Flame,Circlet,EM,1,0,1
+Pale Flame,Circlet,HP,1,0,1
+Pale Flame,Circlet,Healing_Bonus,1,0,1
+Pale Flame,Feather,ATK,4,0,4
+Pale Flame,Feather,Physical_DMG,1,0,1
+Pale Flame,Flower,HP,5,1,4
+Pale Flame,Goblet,ATK,2,0,2
+Pale Flame,Goblet,Anemo_DMG,1,0,1
+Pale Flame,Goblet,Crit_DMG,1,0,1
+Pale Flame,Goblet,Cryo_DMG,1,0,1
+Pale Flame,Goblet,DEF,1,0,1
+Pale Flame,Goblet,Dendro_DMG,1,0,1
+Pale Flame,Goblet,EM,1,0,1
+Pale Flame,Goblet,Electro_DMG,1,0,1
+Pale Flame,Goblet,Geo_DMG,1,0,1
+Pale Flame,Goblet,HP,1,0,1
+Pale Flame,Goblet,Hydro_DMG,1,0,1
+Pale Flame,Goblet,Physical_DMG,2,0,2
+Pale Flame,Goblet,Pyro_DMG,1,0,1
+Pale Flame,Sands,AKT,1,0,1
+Pale Flame,Sands,ATK,3,1,2
+Pale Flame,Sands,DEF,1,0,1
+Pale Flame,Sands,EM,1,0,1
+Pale Flame,Sands,ER,2,0,2
+Pale Flame,Sands,HP,1,0,1
+Retracing Bolide,Circlet,ATK,1,0,1
+Retracing Bolide,Circlet,Crit_DMG,1,0,1
+Retracing Bolide,Circlet,Crit_Rate,1,0,1
+Retracing Bolide,Circlet,DEF,2,0,2
+Retracing Bolide,Circlet,EM,1,0,1
+Retracing Bolide,Circlet,HP,1,0,1
+Retracing Bolide,Circlet,Healing_Bonus,1,0,1
+Retracing Bolide,Circlet,Healing_Bonus ,1,0,1
+Retracing Bolide,Feather,ATK,3,1,2
+Retracing Bolide,Feather,HP,1,0,1
+Retracing Bolide,Flower,DEF,1,0,1
+Retracing Bolide,Flower,HP,3,1,2
+Retracing Bolide,Goblet,ATK,2,0,2
+Retracing Bolide,Goblet,Anemo_DMG,1,0,1
+Retracing Bolide,Goblet,Cryo_DMG,1,0,1
+Retracing Bolide,Goblet,DEF,2,0,2
+Retracing Bolide,Goblet,Dendro_DMG,1,0,1
+Retracing Bolide,Goblet,EM,1,0,1
+Retracing Bolide,Goblet,Electro_DMG,1,0,1
+Retracing Bolide,Goblet,Geo_DMG,1,0,1
+Retracing Bolide,Goblet,HP,1,0,1
+Retracing Bolide,Goblet,Hydro_DMG,1,0,1
+Retracing Bolide,Goblet,Pyro_DMG,1,0,1
+Retracing Bolide,Sands,ATK,1,0,1
+Retracing Bolide,Sands,DEF,3,0,3
+Retracing Bolide,Sands,EM,1,1,0
+Retracing Bolide,Sands,ER,1,0,1
+Retracing Bolide,Sands,ER-ATK-Crit_DMG,1,0,1
+Retracing Bolide,Sands,HP,1,0,1
+Scroll of the Hero of Cider City,Circlet,Healing_Bonus,1,0,1
+Scroll of the Hero of Cider City,Feather,ATK,1,0,1
+Scroll of the Hero of Cider City,Flower,HP,1,0,1
+Scroll of the Hero of Cider City,Goblet,DEF,1,0,1
+Scroll of the Hero of Cider City,Sands,DEF,1,0,1
+Scroll of the Hero of Cinder City,Circlet,ATK,2,0,2
+Scroll of the Hero of Cinder City,Circlet,Crit_DMG,1,0,1
+Scroll of the Hero of Cinder City,Circlet,Crit_Rate,3,0,3
+Scroll of the Hero of Cinder City,Circlet,DEF,1,1,0
+Scroll of the Hero of Cinder City,Circlet,EM,2,0,2
+Scroll of the Hero of Cinder City,Circlet,HP,1,0,1
+Scroll of the Hero of Cinder City,Circlet,Healing_Bonus,2,0,2
+Scroll of the Hero of Cinder City,Feather,ATK,6,0,6
+Scroll of the Hero of Cinder City,Flower,HP,6,1,5
+Scroll of the Hero of Cinder City,Goblet,ATK,2,0,2
+Scroll of the Hero of Cinder City,Goblet,Anemo_DMG,1,0,1
+Scroll of the Hero of Cinder City,Goblet,Cryo_DMG,1,0,1
+Scroll of the Hero of Cinder City,Goblet,DEF,1,0,1
+Scroll of the Hero of Cinder City,Goblet,Dendro_DMG,1,0,1
+Scroll of the Hero of Cinder City,Goblet,EM,2,0,2
+Scroll of the Hero of Cinder City,Goblet,Electro_DMG,2,0,2
+Scroll of the Hero of Cinder City,Goblet,Geo_DMG,2,0,2
+Scroll of the Hero of Cinder City,Goblet,HP,1,0,1
+Scroll of the Hero of Cinder City,Goblet,Hydro_DMG,1,0,1
+Scroll of the Hero of Cinder City,Goblet,Pyro_DMG,2,0,2
+Scroll of the Hero of Cinder City,Sands,ATK,1,0,1
+Scroll of the Hero of Cinder City,Sands,DEF,2,0,2
+Scroll of the Hero of Cinder City,Sands,EM,2,0,2
+Scroll of the Hero of Cinder City,Sands,ER,4,0,4
+Scroll of the Hero of Cinder City,Sands,HP,1,0,1
+Shimenawa's Reminiscence,Circlet,ATK,1,0,1
+Shimenawa's Reminiscence,Circlet,Crit_DMG,2,0,2
+Shimenawa's Reminiscence,Circlet,Crit_Rate,2,0,2
+Shimenawa's Reminiscence,Circlet,DEF,1,0,1
+Shimenawa's Reminiscence,Circlet,EM,2,0,2
+Shimenawa's Reminiscence,Circlet,HP,1,0,1
+Shimenawa's Reminiscence,Circlet,Healing_Bonus,1,0,1
+Shimenawa's Reminiscence,Feather,ATK,4,1,3
+Shimenawa's Reminiscence,Flower,HP,4,1,3
+Shimenawa's Reminiscence,Goblet,ATK,1,0,1
+Shimenawa's Reminiscence,Goblet,Anemo_DMG,2,0,2
+Shimenawa's Reminiscence,Goblet,Cryo_DMG,1,0,1
+Shimenawa's Reminiscence,Goblet,DEF,1,0,1
+Shimenawa's Reminiscence,Goblet,Dendro_DMG,1,0,1
+Shimenawa's Reminiscence,Goblet,EM,2,0,2
+Shimenawa's Reminiscence,Goblet,Electro_DMG,1,0,1
+Shimenawa's Reminiscence,Goblet,Geo_DMG,1,0,1
+Shimenawa's Reminiscence,Goblet,HP,1,0,1
+Shimenawa's Reminiscence,Goblet,Hydro_DMG,1,0,1
+Shimenawa's Reminiscence,Goblet,Pyro_DMG,2,0,2
+Shimenawa's Reminiscence,Sands,ATK,2,0,2
+Shimenawa's Reminiscence,Sands,DEF,1,0,1
+Shimenawa's Reminiscence,Sands,EM,3,1,2
+Shimenawa's Reminiscence,Sands,ER,1,0,1
+Shimenawa's Reminiscence,Sands,HP,1,0,1
+Silken Moon's Serenade,Circlet,ATK,1,0,1
+Silken Moon's Serenade,Circlet,Crit_DMG,1,0,1
+Silken Moon's Serenade,Circlet,Crit_Rate,3,0,3
+Silken Moon's Serenade,Circlet,DEF,1,0,1
+Silken Moon's Serenade,Circlet,EM,1,0,1
+Silken Moon's Serenade,Circlet,HP,2,0,2
+Silken Moon's Serenade,Circlet,Healing_Bonus,1,0,1
+Silken Moon's Serenade,Feather,ATK,3,0,3
+Silken Moon's Serenade,Feather,HP,1,0,1
+Silken Moon's Serenade,Flower,ER,1,0,1
+Silken Moon's Serenade,Flower,HP,3,0,3
+Silken Moon's Serenade,Goblet,ATK,2,0,2
+Silken Moon's Serenade,Goblet,Anemo_DMG,1,0,1
+Silken Moon's Serenade,Goblet,Cryo_DMG,1,0,1
+Silken Moon's Serenade,Goblet,DEF,1,0,1
+Silken Moon's Serenade,Goblet,Dendro_DMG,1,0,1
+Silken Moon's Serenade,Goblet,EM,3,0,3
+Silken Moon's Serenade,Goblet,Electro_DMG,1,0,1
+Silken Moon's Serenade,Goblet,Geo_DMG,1,0,1
+Silken Moon's Serenade,Goblet,HP,1,0,1
+Silken Moon's Serenade,Goblet,Hydro_DMG,1,0,1
+Silken Moon's Serenade,Goblet,Pyro_DMG,1,0,1
+Silken Moon's Serenade,Sands,ATK,1,0,1
+Silken Moon's Serenade,Sands,DEF,1,0,1
+Silken Moon's Serenade,Sands,EM,2,0,2
+Silken Moon's Serenade,Sands,ER,2,0,2
+Silken Moon's Serenade,Sands,HP,2,0,2
+Song of Day's Past,Circlet,ATK,1,0,1
+Song of Day's Past,Circlet,Crit_DMG,1,0,1
+Song of Day's Past,Circlet,Crit_Rate,1,0,1
+Song of Day's Past,Circlet,DEF,1,0,1
+Song of Day's Past,Circlet,EM,1,0,1
+Song of Day's Past,Circlet,HP,1,0,1
+Song of Day's Past,Circlet,Healing_Bonus,3,0,3
+Song of Day's Past,Feather,ATK,3,0,3
+Song of Day's Past,Flower,HP,3,0,3
+Song of Day's Past,Goblet,ATK,2,0,2
+Song of Day's Past,Goblet,Anemo_DMG,1,0,1
+Song of Day's Past,Goblet,Cryo_DMG,1,0,1
+Song of Day's Past,Goblet,DEF,1,0,1
+Song of Day's Past,Goblet,Dendro_DMG,1,0,1
+Song of Day's Past,Goblet,EM,1,0,1
+Song of Day's Past,Goblet,Electro_DMG,1,0,1
+Song of Day's Past,Goblet,Geo_DMG,1,0,1
+Song of Day's Past,Goblet,HP,2,0,2
+Song of Day's Past,Goblet,Hydro_DMG,1,0,1
+Song of Day's Past,Goblet,Pyro_DMG,1,0,1
+Song of Day's Past,Sands,ATK,2,0,2
+Song of Day's Past,Sands,DEF,1,0,1
+Song of Day's Past,Sands,EM,1,0,1
+Song of Day's Past,Sands,ER,1,0,1
+Song of Day's Past,Sands,HP,2,0,2
+Song of Days Past,Circlet,HP,1,0,1
+Song of Days Past,Feather,ATK,1,0,1
+Song of Days Past,Flower,HP,1,0,1
+Song of Days Past,Goblet,HP,1,0,1
+Song of Days Past,Sands,HP,1,0,1
+Symphonist of Scent,Circlet,Healing_Bonus,1,0,1
+Symphonist of Scent,Feather,ATK,1,0,1
+Symphonist of Scent,Flower,HP,1,0,1
+Symphonist of Scent,Goblet,ATK,1,0,1
+Symphonist of Scent,Sands,ATK,1,0,1
+Tenacity of the Milileth,Circlet,ATK,1,0,1
+Tenacity of the Milileth,Circlet,Crit_DMG,1,0,1
+Tenacity of the Milileth,Circlet,Crit_Rate,1,0,1
+Tenacity of the Milileth,Circlet,DEF,1,0,1
+Tenacity of the Milileth,Circlet,EM,1,0,1
+Tenacity of the Milileth,Circlet,HP,10,2,8
+Tenacity of the Milileth,Circlet,Healing_Bonus,3,0,3
+Tenacity of the Milileth,Feather,ATK,9,2,7
+Tenacity of the Milileth,Feather,HP,3,0,3
+Tenacity of the Milileth,Flower,HP,12,1,11
+Tenacity of the Milileth,Goblet,ATK,2,0,2
+Tenacity of the Milileth,Goblet,Anemo_DMG,1,0,1
+Tenacity of the Milileth,Goblet,Cryo_DMG,1,0,1
+Tenacity of the Milileth,Goblet,DEF,1,0,1
+Tenacity of the Milileth,Goblet,Dendro_DMG,1,0,1
+Tenacity of the Milileth,Goblet,EM,1,0,1
+Tenacity of the Milileth,Goblet,Electro_DMG,1,0,1
+Tenacity of the Milileth,Goblet,Geo_DMG,1,0,1
+Tenacity of the Milileth,Goblet,HP,11,0,11
+Tenacity of the Milileth,Goblet,Hydro_DMG,1,0,1
+Tenacity of the Milileth,Goblet,Pyro_DMG,1,0,1
+Tenacity of the Milileth,Sands,ATK,4,0,4
+Tenacity of the Milileth,Sands,DEF,1,0,1
+Tenacity of the Milileth,Sands,EM,1,0,1
+Tenacity of the Milileth,Sands,ER,4,1,3
+Tenacity of the Milileth,Sands,HP,6,3,3
+Tenacity of the Milileth-Vourukasha's Glow,Circlet,Healing_Bonus,1,0,1
+Tenacity of the Milileth-Vourukasha's Glow,Feather,ATK,1,0,1
+Tenacity of the Milileth-Vourukasha's Glow,Flower,HP,1,0,1
+Tenacity of the Milileth-Vourukasha's Glow,Goblet,HP,1,0,1
+Tenacity of the Milileth-Vourukasha's Glow,Sands,ER,1,0,1
+Thundering Fury,Circlet,ATK,1,0,1
+Thundering Fury,Circlet,Crit_DMG,3,0,3
+Thundering Fury,Circlet,Crit_Rate,2,0,2
+Thundering Fury,Circlet,DEF,1,0,1
+Thundering Fury,Circlet,EM,2,0,2
+Thundering Fury,Circlet,HP,1,0,1
+Thundering Fury,Circlet,Healing_Bonus,1,0,1
+Thundering Fury,Feather,ATK,6,1,5
+Thundering Fury,Flower,HP,6,2,4
+Thundering Fury,Goblet,ATK,1,1,0
+Thundering Fury,Goblet,Anemo_DMG,1,0,1
+Thundering Fury,Goblet,Cryo_DMG,1,0,1
+Thundering Fury,Goblet,DEF,1,0,1
+Thundering Fury,Goblet,Dendro_DMG,1,0,1
+Thundering Fury,Goblet,EM,3,0,3
+Thundering Fury,Goblet,Electro_DMG,3,0,3
+Thundering Fury,Goblet,Geo_DMG,1,0,1
+Thundering Fury,Goblet,HP,1,0,1
+Thundering Fury,Goblet,Hydro_DMG,1,0,1
+Thundering Fury,Goblet,Pyro_DMG,1,0,1
+Thundering Fury,Sands,ATK,2,0,2
+Thundering Fury,Sands,DEF,1,0,1
+Thundering Fury,Sands,EM,4,1,3
+Thundering Fury,Sands,EM-EM-EM,1,0,1
+Thundering Fury,Sands,ER,1,0,1
+Thundering Fury,Sands,HP,1,0,1
+Thundersoother,Circlet,ATK,1,0,1
+Thundersoother,Circlet,Crit_DMG,1,0,1
+Thundersoother,Circlet,Crit_Rate,1,0,1
+Thundersoother,Circlet,DEF,1,0,1
+Thundersoother,Circlet,EM,1,0,1
+Thundersoother,Circlet,HP,1,0,1
+Thundersoother,Circlet,Healing_Bonus,1,0,1
+Thundersoother,Feather,ATK,1,0,1
+Thundersoother,Flower,HP,1,0,1
+Thundersoother,Goblet,ATK,1,0,1
+Thundersoother,Goblet,Anemo_DMG,1,0,1
+Thundersoother,Goblet,Cryo_DMG,1,0,1
+Thundersoother,Goblet,DEF,1,0,1
+Thundersoother,Goblet,Dendro_DMG,1,0,1
+Thundersoother,Goblet,EM,1,0,1
+Thundersoother,Goblet,Electro_DMG,1,0,1
+Thundersoother,Goblet,Geo_DMG,1,0,1
+Thundersoother,Goblet,HP,1,0,1
+Thundersoother,Goblet,Hydro_DMG,1,0,1
+Thundersoother,Goblet,Pyro_DMG,1,0,1
+Thundersoother,Sands,ATK,1,0,1
+Thundersoother,Sands,DEF,1,0,1
+Thundersoother,Sands,EM,1,1,0
+Thundersoother,Sands,ER,1,0,1
+Thundersoother,Sands,HP,1,0,1
+Unfinished Reverie,Circlet,ATK,2,0,2
+Unfinished Reverie,Circlet,Crit_DMG,1,0,1
+Unfinished Reverie,Circlet,Crit_Rate,1,0,1
+Unfinished Reverie,Circlet,DEF,1,0,1
+Unfinished Reverie,Circlet,EM,1,0,1
+Unfinished Reverie,Circlet,HP,1,0,1
+Unfinished Reverie,Circlet,Healing_Bonus,1,0,1
+Unfinished Reverie,Feather,ATK,2,1,1
+Unfinished Reverie,Flower,HP,2,0,2
+Unfinished Reverie,Goblet,ATK,2,1,1
+Unfinished Reverie,Goblet,Anemo_DMG,1,0,1
+Unfinished Reverie,Goblet,Cryo_DMG,1,0,1
+Unfinished Reverie,Goblet,DEF,1,0,1
+Unfinished Reverie,Goblet,Dendro_DMG,1,0,1
+Unfinished Reverie,Goblet,EM,1,0,1
+Unfinished Reverie,Goblet,Electro_DMG,1,0,1
+Unfinished Reverie,Goblet,Geo_DMG,1,0,1
+Unfinished Reverie,Goblet,HP,1,0,1
+Unfinished Reverie,Goblet,Hydro_DMG,1,0,1
+Unfinished Reverie,Goblet,Pyro_DMG,1,0,1
+Unfinished Reverie,Sands,ATK,2,1,1
+Unfinished Reverie,Sands,DEF,1,0,1
+Unfinished Reverie,Sands,EM,1,0,1
+Unfinished Reverie,Sands,ER,1,0,1
+Unfinished Reverie,Sands,HP,1,0,1
+Vermillion Hereafter,Circlet,ATK,1,0,1
+Vermillion Hereafter,Circlet,Crit-DGM,1,0,1
+Vermillion Hereafter,Circlet,Crit_DMG,1,0,1
+Vermillion Hereafter,Circlet,Crit_Rate,1,0,1
+Vermillion Hereafter,Circlet,DEF,1,0,1
+Vermillion Hereafter,Circlet,EM,1,0,1
+Vermillion Hereafter,Circlet,ER,1,0,1
+Vermillion Hereafter,Circlet,HP,1,0,1
+Vermillion Hereafter,Circlet,Healing_Bonus,1,0,1
+Vermillion Hereafter,Feather,ATK,3,0,3
+Vermillion Hereafter,Flower,HP,3,0,3
+Vermillion Hereafter,Goblet,ATK,2,0,2
+Vermillion Hereafter,Goblet,Anemo_DMG,2,0,2
+Vermillion Hereafter,Goblet,Cryo_DMG,1,0,1
+Vermillion Hereafter,Goblet,DEF,1,0,1
+Vermillion Hereafter,Goblet,Dendro_DMG,1,0,1
+Vermillion Hereafter,Goblet,EM,1,0,1
+Vermillion Hereafter,Goblet,Electro_DMG,1,0,1
+Vermillion Hereafter,Goblet,Geo_DMG,1,0,1
+Vermillion Hereafter,Goblet,HP,1,0,1
+Vermillion Hereafter,Goblet,Hydro_DMG,1,0,1
+Vermillion Hereafter,Goblet,Pyro_DMG,1,0,1
+Vermillion Hereafter,Sands,ATK,2,0,2
+Vermillion Hereafter,Sands,DEF,1,0,1
+Vermillion Hereafter,Sands,EM,1,0,1
+Vermillion Hereafter,Sands,ER,2,0,2
+Vermillion Hereafter,Sands,HP,1,0,1
+Viridescent Past,Circlet,Healing_Bonus,1,0,1
+Viridescent Past,Feather,ATK,1,0,1
+Viridescent Past,Flower,HP,1,0,1
+Viridescent Past,Goblet,ATK,1,0,1
+Viridescent Past,Sands,ATK,1,0,1
+Viridescent Vener,Circlet,EM,1,0,1
+Viridescent Vener,Feather,ATK,1,0,1
+Viridescent Vener,Flower,HP,1,0,1
+Viridescent Vener,Goblet,EM,1,0,1
+Viridescent Vener,Sands,EM,1,0,1
+Viridescent Venerer,Circlet,ATK,4,2,2
+Viridescent Venerer,Circlet,Crit_DMG,2,0,2
+Viridescent Venerer,Circlet,Crit_Rate,1,0,1
+Viridescent Venerer,Circlet,DEF,1,0,1
+Viridescent Venerer,Circlet,EM,4,1,3
+Viridescent Venerer,Circlet,HP,1,1,0
+Viridescent Venerer,Circlet,Healing_Bonus,1,0,1
+Viridescent Venerer,Feather,ATK,8,3,5
+Viridescent Venerer,Flower,HP,8,3,5
+Viridescent Venerer,Goblet,ATK,4,0,4
+Viridescent Venerer,Goblet,Anemo_DMG,2,0,2
+Viridescent Venerer,Goblet,Cryo_DMG,1,0,1
+Viridescent Venerer,Goblet,DEF,1,0,1
+Viridescent Venerer,Goblet,Dendro_DMG,1,0,1
+Viridescent Venerer,Goblet,EM,4,1,3
+Viridescent Venerer,Goblet,Electro_DMG,1,0,1
+Viridescent Venerer,Goblet,Geo_DMG,1,0,1
+Viridescent Venerer,Goblet,HP,1,0,1
+Viridescent Venerer,Goblet,Hydro_DMG,1,0,1
+Viridescent Venerer,Goblet,Pyro_DMG,1,0,1
+Viridescent Venerer,Sands,ATK,3,1,2
+Viridescent Venerer,Sands,DEF,1,0,1
+Viridescent Venerer,Sands,EM,3,1,2
+Viridescent Venerer,Sands,ER,4,0,4
+Viridescent Venerer,Sands,HP,1,0,1
+Viridescent Veneter,Circlet,Healing_Bonus,1,0,1
+Viridescent Veneter,Feather,ATK,1,0,1
+Viridescent Veneter,Flower,HP,1,0,1
+Viridescent Veneter,Goblet,ATK,1,0,1
+Viridescent Veneter,Sands,ER,1,0,1
+Vouroukasha's Glow,Circlet,EM,1,0,1
+Vouroukasha's Glow,Feather,ATK,1,0,1
+Vouroukasha's Glow,Flower,HP,1,0,1
+Vouroukasha's Glow,Goblet,EM,1,0,1
+Vouroukasha's Glow,Sands,EM,1,0,1
+Vourukasha's Glow,Circlet,ATK,1,0,1
+Vourukasha's Glow,Circlet,Crit_DMG,1,0,1
+Vourukasha's Glow,Circlet,Crit_Rate,1,0,1
+Vourukasha's Glow,Circlet,DEF,1,0,1
+Vourukasha's Glow,Circlet,EM,1,0,1
+Vourukasha's Glow,Circlet,HP,4,1,3
+Vourukasha's Glow,Circlet,Healing_Bonus,1,0,1
+Vourukasha's Glow,Feather,ATK,1,2,-1
+Vourukasha's Glow,Feather,HP,3,0,3
+Vourukasha's Glow,Flower,HP,4,2,2
+Vourukasha's Glow,Goblet,ATK,4,0,4
+Vourukasha's Glow,Goblet,Anemo_DMG,1,0,1
+Vourukasha's Glow,Goblet,Cryo_DMG,1,0,1
+Vourukasha's Glow,Goblet,DEF,1,0,1
+Vourukasha's Glow,Goblet,Dendro_DMG,1,0,1
+Vourukasha's Glow,Goblet,EM,1,0,1
+Vourukasha's Glow,Goblet,Electro_DMG,1,0,1
+Vourukasha's Glow,Goblet,Geo_DMG,1,0,1
+Vourukasha's Glow,Goblet,HP,1,0,1
+Vourukasha's Glow,Goblet,Hydro_DMG,1,0,1
+Vourukasha's Glow,Goblet,Pyro_DMG,1,0,1
+Vourukasha's Glow,Sands,ATK,1,2,-1
+Vourukasha's Glow,Sands,DEF,1,0,1
+Vourukasha's Glow,Sands,EM,1,0,1
+Vourukasha's Glow,Sands,ER,1,0,1
+Vourukasha's Glow,Sands,HP,4,0,4
+Wanderer's Troupe,Circlet,ATK,1,1,0
+Wanderer's Troupe,Circlet,Crit_DMG,3,0,3
+Wanderer's Troupe,Circlet,Crit_Rate,2,0,2
+Wanderer's Troupe,Circlet,DEF,1,0,1
+Wanderer's Troupe,Circlet,EM,1,1,0
+Wanderer's Troupe,Circlet,HP,1,0,1
+Wanderer's Troupe,Circlet,Healing_Bonus,1,0,1
+Wanderer's Troupe,Feather,ATK,4,1,3
+Wanderer's Troupe,Flower,HP,4,2,2
+Wanderer's Troupe,Goblet,ATK,1,0,1
+Wanderer's Troupe,Goblet,Anemo_DMG,1,0,1
+Wanderer's Troupe,Goblet,Cryo_DMG,1,0,1
+Wanderer's Troupe,Goblet,DEF,1,0,1
+Wanderer's Troupe,Goblet,Dendro_DMG,2,0,2
+Wanderer's Troupe,Goblet,EM,1,0,1
+Wanderer's Troupe,Goblet,Electro_DMG,2,0,2
+Wanderer's Troupe,Goblet,Geo_DMG,1,0,1
+Wanderer's Troupe,Goblet,HP,1,0,1
+Wanderer's Troupe,Goblet,Hydro_DMG,1,0,1
+Wanderer's Troupe,Goblet,Pyro_DMG,2,0,2
+Wanderer's Troupe,Sands,ATK,1,0,1
+Wanderer's Troupe,Sands,DEF,1,0,1
+Wanderer's Troupe,Sands,EM,3,1,2
+Wanderer's Troupe,Sands,ER,2,0,2
+Wanderer's Troupe,Sands,HP,1,0,1

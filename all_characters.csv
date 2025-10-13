@@ -1,0 +1,103 @@
+character,stars,element,weapon,region
+Albedo,5,Geo,Sword,Mondstad
+Alhaitham,5,Dendro,Sword,Sumeru
+Aloy,5,Cryo,Bow,None
+Amber,4,Pyro,Bow,Mondstadt
+Arataki Itto,5,Geo,Claymore,Inazuma
+Arlecchino,5,Pyro,Polearm,Snezhnaya
+Baizhu,5,Dendro,Catalyst,Liyue
+Barbara,4,Hydro,Catalyst,Mondstadt
+Beidou,4,Electro,Claymore,Liyue
+Bennett,4,Pyro,Sword,Mondstadt
+Candace,4,Hydro,Polearm,Sumeru
+Charlotte,4,Cryo,Catalyst,Fontaine
+Chasca,5,Cryo,Bow,Natlan
+Chevreuse,4,Pyro,Polearm,Fontaine
+Chiori,5,Geo,Sword,Inazuma
+Chongyun,4,Cryo,Claymore,Liyue
+Citlali,5,Cryo,Caralyst,Natlan
+Clorinde,5,Electro,Sword,Fontaine
+Collei,4,Dendro,Bow,Sumeru
+Cyno,5,Electro,Polearm,Sumeru
+Dehya,5,Pyro,Claymore,Sumeru
+Diluc,5,Pyro,Claymore,Mondstadt
+Diona,4,Cryo,Bow,Mondstadt
+Dori,4,Electro,Claymore,Sumeru
+Emelie,5,Dendro,Polearm,Fontaine
+Escoffier,5,Cryo,Polearm,Fontaine
+Eula,5,Cryo,Claymore,Mondstadt
+Faruzan,4,Anemo,Bow,Sumeru
+Fischl,4,Electro,Bow,Mondstadt
+Freminet,4,Cryo,Claymore,Fontaine
+Furina,5,Hydro,Sword,Fontaine
+Gaming,4,Pyro,Claymore,Liyue
+Ganyu,5,Cryo,Bow,Liyue
+Gorou,4,Geo,Bow,Inazuma
+Hu Tao,5,Pyro,Polearm,Liyue
+Iansan,4,Electro,Catalyst,Natlan
+Ifa,4,Anemo,Catalyst,Natlan
+Jean,5,Anemo,Sword,Mondstadt
+Kachina,4,Geo,Polearm,Natlan
+Kaedehara Kazuha,5,Anemo,Sword,Inazuma
+Kaeya,4,Cryo,Sword,Mondstadt
+Kamisato Ayaka,5,Cryo,Sword,Inazuma
+Kamisato Ayato,5,Hydro,Sword,Inazuma
+Kaveh,4,Dendro,Claymore,Sumeru
+Keqing,5,Electro,Sword,Liyue
+Kinich,5,Dendro,Claymore,Natlan
+Kirara,4,Dendro,Sword,Inazuma
+Klee,5,Pyro,Catalyst,Mondstadt
+Kujou Sara,4,Electro,Bow,Inazuma
+Kuki Shinobu,4,Electro,Sword,Inazuma
+Layla,4,Cryo,Sword,Sumeru
+Lisa,4,Electro,Catalyst,Mondstadt
+Lynette,4,Anemo,Sword,Fontaine
+Lyney,5,Pyro,Bow,Fontaine
+Mavuika,5,Pyro,Claymore,Natlan
+Mika,4,Cryo,Polearm,Mondstadt
+Mona,5,Hydro,Catalyst,Mondstadt
+Mualani,5,Hydro,Catalyst,Natlan
+Nahida,5,Dendro,Catalyst,Sumeru
+Navia,5,Geo,Claymore,Fontaine
+Neuvillette,5,Hydro,Catalyst,Fontaine
+Nilou,5,Hydro,Sword,Sumeru
+Ningguang,4,Geo,Catalyst,Liyue
+Noelle,4,Geo,Claymore,Mondstadt
+Qiqi,5,Cryo,Sword,Liyue	Short Female
+Raiden Shogun,5,Electro,Polearm,Inazuma
+Razor,4,Electro,Claymore,Mondstadt
+Rosaria,4,Cryo,Polearm,Mondstadt
+Sangonomiya Kokomi,5,Hydro,Catalyst,Inazuma
+Sayu,4,Anemo,Claymore,Inazuma
+Sethos,4,Electro,Bow,Sumeru
+Shenhe,5,Cryo,Polearm,Liyue
+Shikanoin Heizou,4,Anemo,Catalyst,Inazuma
+Sucrose,4,Anemo,Catalyst,Mondstadt
+Tartaglia,5,Hydro,Bow,Snezhnaya     
+Thoma,4,Pyro,Polearm,Inazuma
+Tighnari,5,Dendro,Bow,Sumeru
+Anemo Traveler,5,Traveler,Sword,None
+Cryo Traveler,5,Traveler,Sword,None
+Dendro Traveler,5,Traveler,Sword,None
+Electro Traveler,5,Traveler,Sword,None
+Geo Traveler,5,Traveler,Sword,None
+Hydro Traveler,5,Traveler,Sword,None
+Pyro Traveler,5,Traveler,Sword,None
+Varesa,5,Electro,Catalyst,Natlan
+Venti,5,Anemo,Bow,Mondstadt
+Wanderer,5,Anemo,Catalyst,Sumeru
+Wriothesley,5,Cryo,Catalyst,Fontaine
+Xiangling,4,Pyro,Polearm,Liyue
+Xianyun,5,Anemo,Catalyst,Liyue
+Xiao,5,Anemo,Polearm,Liyue
+Xilonen,5,Geo,TBD,Natlan
+Xingqiu,4,Hydro,Sword,Liyue
+Xinyan,4,Pyro,Claymore,Liyue
+Yae Miko,5,Electro,Catalyst,Inazuma
+Yanfei,4,Pyro,Catalyst,Liyue
+Yaoyao,4,Dendro,Polearm,Liyue
+Yelan,5,Hydro,Bow,Liyue
+Yoimiya,5,Pyro,Bow,Inazuma
+Yumemizuki Mizuki,5,Anemo,Catalyst,Inazuma
+Yun Jin,4,Geo,Polearm,Liyue
+Zhongli,5,Geo,Polearm,Liyue

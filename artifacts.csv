@@ -1,0 +1,153 @@
+set,main,type,lv,main_value,sub1,sub1_value,sub2,sub2_value,sub3,sub3_value,sub4,sub4_value
+Archaic Petra,HP,Flower,4,1530,ER,0.058,ATK,0.058,EM,19,DEF,0.066
+Archaic Petra,HP,Goblet,20,0.466,Crit-Dmg,0.148,Crit-Rate,0.039,EM,63,ER,0.13
+Archaic Petra,ATK,Circlet,20,0.466,Crit-Rate,0.031,Crit-DMG,0.155,ER,0.11,ATK,53
+Blizzard Strayer,HP,Flower,20,4780,ATK,53,HP,0.041,ER,0.117,Crit-Rate,0.062
+Blizzard Strayer,ATK,Feather,20,311,HP,0.053,EM,56,ER,0.175,HP,239
+Blizzard Strayer,ER,Sands,20,0.518,EM,61,HP,508,DEF,23,Crit-Rate,0.093
+Blizzard Strayer,Cryo-DMG,Goblet,20,0.466,HP,239,HP,0.146,DEF,37,EM,42
+Blizzard Strayer,ATK,Circlet,20,0.466,EM,47,ER,0.22,Crit-Rate,0.062,ATK,19
+Crimson Witch of Flames,HP,Flower,20,4780,DEF,81,DEF,0.066,HP,0.087,Crit-DMG,0.124
+Crimson Witch of Flames,HP,Flower,4,1530,ATK,16,ER,0.052,Crit-DMG,0.054,EM,21
+Crimson Witch of Flames,ATK,Feather,8,152,EM,16,Crit-Rate,0.066,ER,0.052,ATK,0.041
+Deepwood Memories,HP,Flower,20,4780,EM,35,ER,0.162,Crit Rate,0.027,Crit-DMG,0.14
+Deepwood Memories,HP,Flower,4,1530,ER,0.065,ATK,0.053,EM,19,Crit-DMG,0.054
+Deepwood Memories,ATK,Feather,20,311,HP,0.158,HP,508,ER,0.065,Crit-Rate,0.066
+Deepwood Memories,ATK,Sands,20,0.466,ATK,37,ER,0.155,Crit-DMG,0.054,EM,40
+Deepwood Memories,EM,Sands,20,187,HP,0.163,ATK,16,Crit-DMG,0.218,ER,0.104
+Deepwood Memories,HP,Sands,17,0.407,ATK,0.175,EM,40,ER,0.052,HP,239
+Deepwood Memories,EM,Circlet,20,187,Crit-Rate,0.027,HP,747,ATK,16,DEF,53
+Deepwood Memories,HP,Circlet,4,0.149,Crit-Rate,0.027,HP,269,ER,0.065,ATK,18
+Desert Pavillion Chronicle,EM,Goblet,20,187,Crit-Rate,0.027,DEF,46,HP,448,Crit-DMG,0.202
+Emblem of Severed Fate,ATK,Feather,6,126,HP,0.058,HP,299,ER,0.065,ATK,0.053
+Finale of Deep Galleries,ATK,Sands,20,0.466,EM,65,HP,239,Crit-DMG,19.4,ER,6.5
+Finale of Deep Galleries,EM,Sands,20,187,HP,508,HP,0.222,Crit-Rate,0.074,DEF,0.66
+Finale of Deep Galleries,HP,Goblet,20,0.466,HP,299,ER,0.045,ATK,51,ATK,0.157
+Flower of Paradise Lost,HP,Flower,10,2749,ATK,14,Crit-Rate,0.07,Crit-DMG,0.078,ATK,0.047
+Flower of Paradise Lost,ATK,Feather,20,311,EM,35,ATK,0.105,HP,0.198,DEF,0.058
+Flower of Paradise Lost,EM,Goblet,20,187,ATK,0.093,DEF,16,HP,538,ATK,53
+Flower of Paradise Lost,Healing_Bonus,Circlet,20,0.359,ATK,0.134,Crit-DMG,0.062,ATK,49,ER,0.11
+Fragment of Harmonic Whimsy,HP,Flower,20,0.466,ER,0.065,Crit-Rate,0.035,Crit-DMG,0.202,ATK,0.152
+Fragment of Harmonic Whimsy,ATK,Feather,20,311,HP,0.093,EM,21,ER,0.065,Crit-DMG,0.295
+Fragment of Harmonic Whimsy,HP,Goblet,20,0.466,Crit-DMG,0.14,ATK,49,DEF,0.051,ER,0.123
+Fragment of Harmonic Whimsy,HP,Goblet,20,0.466,ATK,0.117,HP,478,Crit-Rate,0.097,ER,0.058
+Fragment of Harmonic Whimsy,Crit-Rate,Circlet,20,0.311,ATK,16,Crit-DMG,0.171,HP,0.163,EM,37
+Gilded Dreams,HP,Flower,20,4780,DEF,0.168,Crit-DMG,0.124,ER,0.188,EM,16
+Gilded Dreams,HP,Flower,20,4780,DEF,0.117,DEF,23,EM,40,ATK,0.152
+Gilded Dreams,HP,Flower,4,1530,EM,19,ER,0.058,HP,0.047,Crit-Rate,0.035
+Gilded Dreams,ATK,Feather,20,311,ER,0.11,HP,0.053,ATK,0.262,EM,19
+Gilded Dreams,ATK,Feather,4,100,HP,0.058,Crit-Rate,0.031,EM,21,ATK,0.041
+Gilded Dreams,ER,Sands,8,0.254,EM,23,HP,269,Crit-Rate,0.054,ATK,14
+Gilded Dreams,EM,Goblet,4,60,Crit-Rate,0.039,Crit-DMG,0.155,ER,0.045,HP,299
+Gilded Dreams,HP,Goblet,4,0.149,ATK,16,EM,19,ER,0.065,HP,239
+Gladiator's Finale,HP,Circlet,20,0.268,HP,209,ER,0.117,EM,42,Crit-DMG,0.054
+Gladiator's Finale,Dendro-DMG,Goblet,4,0.149,Crit-DMG,0.062,ATK,0.047,ATK,14,ER,0.045
+Golden Troupe,ATK,Feather,20,311,HP,687,Crit-Rate,0.058,Crit-DMG,0.07,ATK,0.099
+Golden Troupe,ATK,Feather,12,205,ATK,0.082,EM,21,Crit-Rate,0.035,ER,0.11
+Golden Troupe,Crit-DMG,Circlet,20,0.622,EM,68,ATK,19,Crit-Rate,0.062,ER,0.104
+Heart of Depths,ATK,Goblet,4,0.149,EM,21,HP,209,ER,0.045,Crit-DMG,0.062
+Husk of Oppulent Dreams,HP,Flower,20,4780,DEF,0.131,ATK,49,Crit-DMG,0.21,ER,0.052
+Husk of Oppulent Dreams,HP,Flower,20,4780,DEF,0.139,Crit-Rate,0.027,ATK,0.082,ER,0.175
+Husk of Oppulent Dreams,ATK,Feather,20,311,Crit-Rate,0.117,Crit-DMG,0.054,DEF,46,ER,0.123
+Husk of Oppulent Dreams,ATK,Feather,20,311,Crit-Rate,0.093,DEF,67,HP,299,ATK,0.105
+Husk of Oppulent Dreams,DEF,Sands,20,0.583,HP,956,DEF,46,Crit-DMG,0.078,Crit-Rate,0.027
+Husk of Oppulent Dreams,ATK,Goblet,20,0.466,DEF,0.117,ATK,35,DEF,37,HP,478
+Long Night's Oath,HP,Flower,20,4780,ATK,33,ER,0.065,HP,0.146,DEF,35
+Long Night's Oath,ATK,Feather,20,311,Crit-Rate,0.07,ER,0.11,HP,299,HP,0.134
+Long Night's Oath,ATK,Sands,20,0.466,EM,47,Crit-DMG,0.334,HP,0.047,DEF,0.051
+Long Night's Oath,EM,Goblet,20,187,HP,568,DEF,44,ATK,27,Crit-DMG,0.155
+Long Night's Oath,Crit-DMG,Circlet,20,0.622,ATK,0.047,Crit-Rate,0.105,ER,0.11,EM,3
+Marechaussee Hunter,HP,Flower,20,4780,ATK,74,Crit-Rate,0.058,ATK,0.053,Crit-DMG,0.14
+Marechaussee Hunter,HP,Flower,4,1530,ER,0.045,ATK,0.047,Crit-DMG,0.132,HP,0.047
+Marechaussee Hunter,ATK,Feather,16,258,HP,0.047,HP,508,EM,37,ATK,0.082
+Marechaussee Hunter,ATK,Feather,4,100,ER,0.045,HP,0.053,Crit-DMG,0.078,EM,23
+Marechaussee Hunter,ATK,Goblet,20,0.466,DEF,0.175,EM,16,HP,269,ER,0.162
+Maiden Beloved,HP,Flower,16,3967,Crit-Rate,0.054,ATK,33,ATK,0.041,Crit-DMG,0.132
+Maiden Beloved,ATK,Feather,6,126,ER,0.045,EM,16,HP,0.058,Crit-Rate,0.031
+Maiden Beloved,ATK,Feather,5,113,Crit-DMG,0.132,HP,0.047,Crit-Rate,0.035,HP,209
+Maiden Beloved,ATK,Feather,4,100,ER,0.052,EM,21,HP,239,Crit-Rate,0.027
+Maiden Beloved,ATK,Feather,4,100,Crit-DMG,0.054,ER,0.058,EM,16,HP,269
+Maiden Beloved,ATK,Gobletm16,16,0.387,EM,63,ATK,33,Crit-Rate,0.039,Crit-DMG,0.062
+Maiden Beloved,Electro-DMG,Goblet,20,0.466,HP,299,ATK,0.152,Crit-DMG,0.124,ATK,31
+Noblesse Oblige,HP,Flower,20,4780,ATK,0.169,Crit-Rate,0.039,ATK,31,Crit-DMG,0.132
+Noblesse Oblige,HP,Flower,4,1530,ATK,19,HP,0.047,Crit-DMG,0.062,EM,23
+Noblesse Oblige,ATK,Feather,20,311,ATK,0.053,Crit-DMG,0.14,EM,56,HP,478
+Noblesse Oblige,ATK,Sands,20,0.466,HP,474,HP,0.053,ATK,16,DEF,56
+Noblesse Oblige,ER,Sands,0,0.166,Crit-DMG,0.062,ATK,0.041,HP,0.058,ATK,19
+Noblesse Oblige,HP,Goblet,20,0.466,DEF,0.073,Crit-DMG,0.117,Crit-Rate,0.105,ATK,37
+Noblesse Oblige,ATK,Circlet,20,0.466,DEF,63,ER,0.052,DEF,0.197,HP,269
+Obsidian Codex,HP,Flower,20,4780,HP,0.105,ATK,0.14,ATK,16,EM,40
+Obsidian Codex,HP,Circlet,20,0.466,Crit-DMG,0.187,DEF,39,Crit-Rate,0.07,ATK,0.041
+Obsidian Codex,ATK,Sands,20,0.466,HP,488,ATK,18,Crit-DMG,0.148,Crit-Rate,0.117
+Obsidian Codex,HP,Sands,20,0.466,ER,0.052,DEF,19,ATK,0.157,EM,54
+Obsidian Codex,ATK,Goblet,20,0.466,EM,61,HP,269,ER,0.168,DEF,19
+Obsidian Codex,Crit-DMG,Circlet,20,0.622,EM,84,HP,478,DEF,23,ATK,0.53
+Ocean-Hued Clam,HP,Flower,20,4780,DEF,63,Crit-Rate,0.027,ER,0.117,ATK,0.099
+Ocean-Hued Clam,ATK,Flower,4,100,Crit-Rate,0.035,HP,269,HP,0.041,EM,16
+Pale Flame,HP,Flower,20,4780,EM,16,Crit-Rate,0.066,Crit-DMG,0.218,DEF,39
+Pale Flame,ATK,Sands,20,0.466,Crit-Rate,0.078,DEF,44,DEF,0.124,EM,42
+Pale Flame,ATK,Circlet,20,0.466,ATK,31,HP,448,DEF,35,EM,42
+Retracing Bolide,HP,Flower,20,4780,Crit-Rate,0.066,HP,0.041,ATK,0.198,EM,21
+Retracing Bolide,ATK,Feather,15,245,ATK,0.053,Crit-DMG,0.194,Crit-Rate,0.031,DEF,19
+Retracing Bolide,EM,Sands,4,60,HP,239,ER,0.045,Crit-Rate,0.039,HP,0.047
+Retracing Bolide,Crit-DMG,Circlet,20,0.622,EM,17,DEF,32,Crit-Rate,0.031,HP,807
+Scroll of the Hero of Cinder City,HP,Flower,8,2342,ER,0.045,ATK,0.111,EM,23,ATK,18
+Scroll of the Hero of Cinder City,DEF,Circlet,20,0.583,HP,0.146,EM,58,DEF,23,Crit-Rate,0.027
+Shimenawa's Reminiscence,HP,Flower,20,4780,ATK,43,Crit-Rate,0.062,Crit-DMG,0.132,HP,0.099
+Shimenawa's Reminiscence,ATK,Feather,20,311,Crit-Rate,0.074,Crit-DMG,0.225,ER,0.11,HP,209
+Shimenawa's Reminiscence,EM,Sands,20,187,Crit-Rate,0.089,Crit-DMG,0.078,DEF,0.182,DEF,42
+Shimenawa's Reminiscence,Pyro-DMG,Goblet,20,0.105,ATK,0.105,HP,0.041,ATK,33,EM,54
+Shimenawa's Reminiscence,Crit-Rate,Citclet,20,0.311,DEF,60,HP,598,ER,0.058,EM,61
+Song of Days Past,Healing-Bonus,Circlet,20,0.359,HP,239,HP,0.111,EM,63,Crit-DMG,0.14
+Tenacity of the Milileth,HP,Flower,20,4780,Crit-Rate,0.078,HP,0.187,EM,23,ATK,31
+Tenacity of the Milileth,ATK,Feather,20,311,HP,0.134,HP,747,ER,0.104,Crit-DMG,0.078
+Tenacity of the Milileth,ATK,Feather,20,311,DEF,21,ER,0.162,EM,65,HP,0.041
+Tenacity of the Milileth,ER,Sands,20,0.518,HP,269,Crit-Rate,0.062,HP,0.198,ATK,18
+Tenacity of the Milileth,HP,Sands,20,0.466,HP,777,EM,47,ER,0.155,ATK,16
+Tenacity of the Milileth,HP,Sands,20,0.466,ER,0.065,Crit-Rate,0.062,ATK,16,EM,75
+Tenacity of the Milileth,HP,Sands,20,0.466,ATK,33,Crit-DMG,0.148,Crit-Rate,0.058,HP,538
+Tenacity of the Milileth,Crit-Rate,Circlet,20,0.311,EM,35,ER,0.045,ATK,0.104,Crit-DMG,0.218
+Tenacity of the Milileth,Healing-Bonus,Circlet,20,0.359,ATK,0.169,HP,478,HP,0.041,ER,0.149
+Tenacity of the Milileth,HP,Circlet,20,0.466,ER,0.104,Crit-DMG,0.148,HP,717,ATK,35
+Tenacity of the Milileth,HP,Circlet,20,0.466,Crit-Rate,0.066,ATK,47,EM,47,DEF,21
+Thundering Fury,HP,Flower,20,4780,Crit-Rate,0.109,ER,0.149,EM,37,ATK,18
+Thundering Fury,HP,Flower,20,4780,HP,0.058,Crit-DMG,0.117,Crit-Rate,0.097,EM,40
+Thundering Fury,ATK,Feather,20,311,Crit-Rate,0.074,HP,239,Crit-DMG,0.021,DEF,37
+Thundering Fury,EM,Sands,20,187,ATK,31,HP,508,ATK,0.152,HP,0.099
+Thundering Fury,ATK,Goblet,20,0.466,HP,299,HP,0.198,Crit-Rate,0.039,EM,65
+Thundering Fury,Pyro-DMG,Goblet,20,0.466,EM,42,HP,0.111,ATK,0.14,HP,239
+Thundersoother,EM,Sands,4,60,Crit-Rate,0.027,Crit-DMG,0.078,ER,0.045,ATK,18
+Unfinshed Reverie,HP,Flower,20,4780,Crit-DMG,0.07,ATK,19,Crit-Rate,0.171,DEF,23
+Unfinished Reverie,ATK,Feather,20,311,Crit-DMG,0.155,HP,478,ATK,0.117,EM,35
+Unfinished Reverie,ATK,Sands,20,0.466,EM,89,HP,0.058,Crit-DMG,0.062,Crit-Rate,0.039
+Unfinished Reverie,ATK,Goblet,20,0.466,HP,0.111,Crit-DMG,0.132,ER,0.155,Crit-Rate,0.035
+Vermillion Hereafter,Hydro-DMG,Goblet,20,0.466,EM,23,HP,538,Crit-DMG,0.257,ATK,18
+Viridescent Venerer,HP,Flower,20,4780,ATK,45,Crit-DMG,0.054,EM,35,Crit-Rate,0.101
+Viridescent Venerer,HP,Flower,20,4780,Crit-DMG,0.07,ATK,47,Crit-DMG,63,ER,0.097
+Viridescent Venerer,HP,Flower,20,4780,DEF,37,Crit-DMG,0.218,Crit-DMG,0.074,EM,21
+Viridescent Venerer,ATK,Feather,20,311,DEF,0.066,EM,37,Crit-Rate,0.144,HP,0.058
+Viridescent Venerer,ATK,Feather,20,311,DEF,0.102,HP,239,DEF,32,Crit-DMG,0.202
+Viridescent Venerer,ATK,Feather,4,100,HP,0.047,HP,209,Crit-Rate,0.031,EM,19
+Viridescent Venerer,ATK,Sands,20,0.466,DEF,0.124,Crit-Rate,0.039,ATK,39,Crit-DMG,0.218
+Viridescent Venerer,EM,Sands,20,187,ATK,14,Crit-Rate,0.074,Crit-DMG,0.194,HP,448
+Viridescent Venerer,EM,Goblet,20,187,DEF,44,HP,0.111,Crit-DMG,0.07,ATK,0.21
+Viridescent Venerer,Hydro-DMG,Goblet,20,0.466,DEF,0.073,Crit-Rate,0.058,HP,568,HP,0.163
+Viridescent Venerer,ATK,Circlet,20,0.466,ATK,53,Crit-DMG,0.233,ER,0.065,HP,0.058
+Viridescent Venerer,ATK,Circlet,4,0.149,ATK,19,ER,0.052,EM,23,Crit-Rate,0.039
+Viridescent Venerer,EM,Circlet,20,187,HP,418,DEF,46,ER,0.097,DEF,0.109
+Viridescent Venerer,HP,Circlet,4,0.149,ATK,0.099,HP,209,ER,0.052,EM,23
+Viridescent Venerer,Healing-Bonus,Circlet,20,0.359,Crit-Rate,0.148,ER,0.11,ATK,0.058,HP,0.053
+Vourukasha's Glow,HP,Flower,20,4780,DEF,19,DEF,0.109,ATK,31,HP,0.157
+Vourukasha's Glow,HP,Flower,20,4780,HP,0.134,Crit-Rate,0.101,DEF,21,ATK,35
+Vourukasha's Glow,ATK,Feather,20,311,ER,0.132,HP,538,Crit-Rate,0.07,HP,0.105
+Vourukasha's Glow,ATK,Feather,20,311,Crit-DMG,0.078,Crit-Rate,0.144,HP,568,HP,0.117
+Vourukasha's Glow,ATK,Sands,20,0.466,HP,209,HP,0.163,Crit-Rate,0.031,EM,63
+Vourukasha's Glow,ATK,Sands,4,0.149,Crit-DMG,0.078,ATK,0.041,ER,0.065,HP,209
+Vourukasha's Glow,HP,Circlet,20,0.466,ATK,53,ATK,0.041,ER,0.168,DEF,19
+Wanderer's Troupe,HP,Flower,17,47171,ATK,0.053,Crit-Rate,0.089,ER,0.097,EM,44
+Wanderer's Troupe,HP,Flower,4,1530,ATK,16,Crit-DMG,0.078,ATK,0.041,ER,0.065
+Wanderer's Troupe,ATK,Feather,18,285,ER,0.11,EM,33,Crit-DMG,0.054,ATK,0.152
+Wanderer's Troupe,EM,Sands,20,187,ER,0.11,Crit-Rate,0.074,ATK,56,ATK,0.058
+Wanderer's Troupe,Pyro-DMG,Goblet,20,0.466,Crit-DMG,0.062,Crit-Rate,0.039,EM,68,ATK,0.14
+Wanderer's Troupe,ATK,Circlet,13,0.328,Crit-Rate,0.035,Crit-DMG,0.132,ER,0.162,EM,19
+Wanderer's Troupe,EM,Circlet,20,187,DEF,63,HP,448,HP,0.157,DEF,0.051
