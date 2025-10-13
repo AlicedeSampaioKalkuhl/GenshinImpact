@@ -1,0 +1,2 @@
+# GenshinImpact
+Genshin Impact Gaming
